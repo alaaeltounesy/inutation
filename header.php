@@ -74,7 +74,7 @@
 
 
   <section class="sec-header head-mob px-4 d-lg-none d-block">
-    <nav class="navbar navbar-expand-lg navbar-light py-4  ">
+    <nav class="navbar navbar-expand-lg navbar-light   ">
 
     <a href="#"> <button class="btn   my-sm-0 sch-btn-m">SCHEDULE</button>
         </a>

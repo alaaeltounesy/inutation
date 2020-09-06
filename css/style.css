@@ -317,6 +317,12 @@ div#share-buttons div {
 .sec2 .col-12 {
     margin-top: -7rem;
 }
+}@media (max-width:600px)
+{
+body .sec4 .nav a {
+    padding: 1rem;
+    font-size: 1.2rem;
+}
 }
 .lrn-btn{
     color: black;
@@ -385,8 +391,12 @@ z-index: 101;
 {.sec4 .cont-tabs{  font-family:italic-light!important; 
     margin-left: -80%;
     width: auto;
+    margin-top: 2rem;
     font-size: 18px;
     display: block;
+}
+.sec4  img{
+    height: 550px;
 }
 }
 /*sec5*/

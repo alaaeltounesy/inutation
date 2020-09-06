@@ -756,7 +756,7 @@ include 'share.php';
 
             </div>
             <div class="col-lg-3 col-8 text-center mx-auto">
-                <a href=#>
+                <a href="services.php" >
                     <button class="btn lrn-about my-4 w-100 ">
                         START TODAY
                     </button>
