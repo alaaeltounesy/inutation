@@ -88,21 +88,66 @@ include 'share.php';
                     <div class="post mb-5 ">
                       
                             <h4 class=" bold-m mb-5">
-                                What’s in a Yogurt? The Lowdown on 10 Popular Types
+                            Nutrition During Your Pregnancy  
+
 
                             </h4>
-                            <img src="images/post1.png" class="w-100 mb-5">
+                            <img src="images/post1.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
-                                Have you noticed how many varieties of yogurt there are to choose from these
-                                days? How are they alike or different? All yogurts are made from milk that is
-                                fermented with live cultures of healthy bacteria. Fermentation turns lactose, the
-                                natural sugar in milk, into lactic acid, which gives yogurt its sour flavor.<br> <br>
-                                However, yogurt can be made from different types of milk, strained or unstrained,
-                                plain or flavored, and full-fat or low-fat. Some may be high in protein or fiber. But be
-                                sure to check the ingredients for added sugars, artificial sweeteners, thickeners, and
-                                other ingredients that can add calories or carbohydrates.
-                            </h5>
+                            Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child. Here are some tips and answers about what the dietary system you need during pregnancy: 
+<br><br><span class="italic-SemiBold">
+Eating for Two:<br> </span>
+    <br>
+Eating for two is a myth. You do not need to double your intake, but you need a new healthy diet. This diet needs some changes to adapt to your new status, including a higher intake of calories, while minimizing trans fats that are found in junk food. Your appetite is your guide, but try to keep your diet limited to 3 meals and 3 snacks a day.   
+<br><br><span class="italic-SemiBold">
+A Healthy Diet:<br> </span>
+<br>
+The healthy diet you need is similar to an average healthy diet: An array of vegetables and fruits, vitamins, protein, fibers, calcium, and healthy fats and carbs. What you need is the essential intakes for a development of a healthy baby to ensure suitable nutrition. Here are some of these essentials to have a healthy pregnancy: 
+    <br><br><span class="italic-SemiBold">
+  Dairy Products:<br> </span>
+  <br>
+Dairy products contain the calcium needed that substitute the loss of calcium in the bones. The development of a fetus consumes a lot of the calcium in your body, so you need to compensate for that. Dairy products also contain protein and iodine. 
+<img src="images/post1-2.jpg" class="w-100 my-lg-5 my-3">
+      <br><br><span class="italic-SemiBold">
+      Proteins:<br> </span>
+      <br>
+You need different sources of protein instead of the standard source of meat, dark or white, because as much as meat is the number one protein source, it can also harm you if you are not careful. Proteins can be found in legumes, eggs, broccoli, and dark leafy greens. You can also pair proteins with vitamin C sources for the best absorption result. 
+<br><br><span class="italic-SemiBold">
+  Healthy Fats:<br> </span>
+  <br>
+Healthy saturated fats are needed in a balanced diet, and more needed in a diet for pregnancy. They contain the elements that can help in developing of the fetus. They can be found in eggs, avocados, and some dairy products. Avoid pairing fats with carbohydrates.  
+<br><br><span class="italic-SemiBold">
+  Varity of Vitamins:</span> 
+  <br><br>
+To stay healthy and develop a healthy baby, you need to consume different types of vitamins. Broccoli and dark leafy greens contain Vitamins A, C, and K. Bell peppers are rich in vitamin C, like sweet potatoes are rich in Vitamin A.  
+<br><br><span class="italic-SemiBold">
+  Iron:<br> </span>
+  <br>
+Iron is essential to stay healthy, as the body needs iron to carry out essential body tasks. Iron can be found in legumes, and dark leafy greens. 
+<br><br><span class="italic-SemiBold">
+  Healthy Carbs:<br> </span>
+  <br>
+Just like fats, you can have to be careful with the source of carbs. You need healthy carbs, as carbs are a good source of calories, and you can find them in berries. 
+<br>
+  <br><br><span class="italic-SemiBold">
+  Stay Hydrated :</span> 
+
+  <img src="images/post1-3.jpg" class="w-90 my-lg-5 my-3">
+Drinking water is what keeps you energetic, as it increased the blood flow. Blood volume increases by 45 percent while being pregnant, so you need the water to help the flow of the increased blood volume. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection.  
+<br> <br>
+<b>
+Have a healthy pregnancy to have a healthy baby!  
+</b>
+
+ 
+ 
+ 
+ 
+    
+                    
+
+</h5>
                   
                         <!--social post like share-->
                         <div class="row mb-5 pb-3  mx-0 text-left" style="border-bottom:1px solid #000;">
