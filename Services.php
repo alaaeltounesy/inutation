@@ -53,8 +53,6 @@
 
 <?php
 include 'header.php';
-?>
-<?php
 include 'share.php';
 ?>
 
