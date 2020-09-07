@@ -30,10 +30,10 @@
 
   <meta name="theme-color" content="">
   
-  <link rel="icon" href="favicon.ico" type="image/png">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="/image/png">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 
 </head>
 
@@ -130,7 +130,7 @@ include 'share.php';
                 </h5>
             </div>
             <div class="col-xl-6">
-                <img src="images/ser-h.png" class="w-100  d-block d-xl-none">
+                <img src="/images/ser-h.png" class="w-100  d-block d-xl-none">
             </div>
         </div>
     </div>
@@ -141,7 +141,7 @@ include 'share.php';
         <div class="row text-center py-xl-5 ">
 
             <div class="col-12  d-none">
-                <img src="images/hs2.png" class="w-100  ">
+                <img src="/images/hs2.png" class="w-100  ">
             </div>
             <div class="col-xl-8 py-xl-5">
                 <h1 class="my-xl-5 mb-lg-5 mb-3 italic-SemiBold">

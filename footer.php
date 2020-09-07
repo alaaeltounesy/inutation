@@ -4,7 +4,7 @@
     <div class="row  ">
       <div class="col-lg-4 d-lg-block d-none">
         <div class="col-4">
-          <img src="images/loggo.png" class="w-100">
+          <img src="/images/loggo.png" class="w-100">
         </div>
       </div>
       <div class="col-lg-8 px-lg-0 px-4">
@@ -40,15 +40,15 @@
       <div class="col-lg-4  "></div>
       <div class="col-lg-4 social-footer col-8 mx-auto px-lg-1 px-4  mx-0  row justify-content-center">
         <div class="col-4   px-lg-0 px-4">
-          <a href="https://www.facebook.com/ShadiaHamadeh/" target="_black" class="text-left w-75"><img src="images/facebook.svg"></a>
+          <a href="https://www.facebook.com/ShadiaHamadeh/" target="_black" class="text-left w-75"><img src="/images/facebook.svg"></a>
         </div>
 
         <div class="col-4  text-center px-lg-0 px-4">
-          <a href="https://www.linkedin.com/in/shadia-hamadeh-ms-rdn-ldn-clc-07b3a341/" target="_black" class="text-center"><img src="images/linkedin.svg"></a>
+          <a href="https://www.linkedin.com/in/shadia-hamadeh-ms-rdn-ldn-clc-07b3a341/" target="_black" class="text-center"><img src="/images/linkedin.svg"></a>
         </div>
 
         <div class="col-4 text-right px-lg-0 px-4">
-          <a href="https://instagram.com/inutrition4u?igshid=bpedptz2dhqb" target="_black" class="text-right"><img src="images/insta.svg"></a>
+          <a href="https://instagram.com/inutrition4u?igshid=bpedptz2dhqb" target="_black" class="text-right"><img src="/images/insta.svg"></a>
         </div>
 
 
@@ -66,10 +66,10 @@
 
 
 
-<script src="js/jquery-3.3.1.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/main.js"></script>
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/popper.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/main.js"></script>
 
 </body>
 

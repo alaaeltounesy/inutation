@@ -27,10 +27,10 @@
  <meta name="twitter:image:alt" content="">
 
   <meta name="theme-color" content="">
-  <link rel="icon" href="favicon.ico" type="image/png">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="/image/png">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 
 </head>
 
@@ -72,7 +72,7 @@ include 'share.php';
 
                         <div class="col-6 p-0 text-left">
                             <a class="black" href="blog" style="color:black;">
-                                <img src="images/backarr.svg" class="mr-1">
+                                <img src="/images/backarr.svg" class="mr-1">
                             </a>
 
 
@@ -92,7 +92,7 @@ include 'share.php';
 
 
                             </h4>
-                            <img src="images/post1.jpg" class="w-100 mb-5">
+                            <img src="/images/post1.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
                             Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child. Here are some tips and answers about what the dietary system you need during pregnancy: 
@@ -108,7 +108,7 @@ The healthy diet you need is similar to an average healthy diet: An array of veg
   Dairy Products:<br> </span>
   <br>
 Dairy products contain the calcium needed that substitute the loss of calcium in the bones. The development of a fetus consumes a lot of the calcium in your body, so you need to compensate for that. Dairy products also contain protein and iodine. 
-<img src="images/post1-2.jpg" class="w-100 my-lg-5 my-3">
+<img src="/images/post1-2.jpg" class="w-100 my-lg-5 my-3">
       <br><br><span class="italic-SemiBold">
       Proteins:<br> </span>
       <br>
@@ -133,7 +133,7 @@ Just like fats, you can have to be careful with the source of carbs. You need he
   <br><br><span class="italic-SemiBold">
   Stay Hydrated :</span> 
 
-  <img src="images/post1-3.jpg" class="w-90 my-lg-5 my-3">
+  <img src="/images/post1-3.jpg" class="w-90 my-lg-5 my-3">
 Drinking water is what keeps you energetic, as it increased the blood flow. Blood volume increases by 45 percent while being pregnant, so you need the water to help the flow of the increased blood volume. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection.  
 <br> <br>
 <b>
@@ -164,21 +164,21 @@ Have a healthy pregnancy to have a healthy baby!
 
                             <div class="col-md-3 col-xl-2  col-6 p-0" style="position:relative;">
                                 <button class="share-btn" style="color:black;">
-                                    <img src="images/share.svg" class="mr-1"> Share</button>
+                                    <img src="/images/share.svg" class="mr-1"> Share</button>
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
                                     <a href="#" id="face-btn" target="_blank">
-                                        <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                        <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
                                     <a href="#" id="twitter-btn" target="_blank">
-                                        <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="#" id="whatapp-btn" target="_blank">
-                                        <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="#" id="pinterest-btn" target="_blank">
-                                        <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                        <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
                                 </div>
@@ -207,19 +207,19 @@ Have a healthy pregnancy to have a healthy baby!
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
             </h5>
-            <img src="images/post4.png" class="w-100 mb-5">
+            <img src="/images/post4.png" class="w-100 mb-5">
         </a>
         <a class="black mb-5" href="#">
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
             </h5>
-            <img src="images/post5.png" class="w-100 mb-5">
+            <img src="/images/post5.png" class="w-100 mb-5">
         </a>
         <a class="black mb-5" href="#">
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
             </h5>
-            <img src="images/post6.png" class="w-100 mb-5">
+            <img src="/images/post6.png" class="w-100 mb-5">
         </a>
     </div>
 

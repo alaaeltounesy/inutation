@@ -27,10 +27,10 @@
  <meta name="twitter:image:alt" content="">
 
   <meta name="theme-color" content="">
-  <link rel="icon" href="favicon.ico" type="image/png">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="/image/png">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 
 </head>
 
@@ -80,26 +80,26 @@ include 'share.php';
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
                             <a class="black" href="article" style="color:black;">
-                                <img src="images/eye.svg" class="mr-1"> View
+                                <img src="/images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
                         <div class="col-xl-2 col-md-3 col-6 p-0" style="position:relative;">
                             <button class="share-btn" style="color:black;">
-                                <img src="images/share.svg" class="mr-1"> Share</button>
+                                <img src="/images/share.svg" class="mr-1"> Share</button>
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
                                 <a href="article" id="face-btn" target="_blank">
-                                    <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                    <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
                                 <a href="article" id="twitter-btn" target="_blank">
-                                    <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="whatapp-btn" target="_blank">
-                                    <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="pinterest-btn" target="_blank">
-                                    <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                    <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
                             </div>
@@ -124,7 +124,7 @@ include 'share.php';
                             Nutrition During Your Pregnancy  
 
                             </h4>
-                            <img src="images/post1.jpg" class="w-100 mb-5">
+                            <img src="/images/post1.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
                             Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child.
@@ -144,26 +144,26 @@ include 'share.php';
 
                             <div class=" col-md-3 col-6 p-0">
                                 <a class="black" href="article" style="color:black;">
-                                    <img src="images/eye.svg" class="mr-1"> View
+                                    <img src="/images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
                             <div class="col-md-3 col-6 p-0" style="position:relative;">
                                 <button class="share-btn" style="color:black;">
-                                    <img src="images/share.svg" class="mr-1"> Share</button>
+                                    <img src="/images/share.svg" class="mr-1"> Share</button>
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
                                     <a href="article" id="face-btn" target="_blank">
-                                        <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                        <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
                                     <a href="article" id="twitter-btn" target="_blank">
-                                        <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="whatapp-btn" target="_blank">
-                                        <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="pinterest-btn" target="_blank">
-                                        <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                        <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
                                 </div>
@@ -196,26 +196,26 @@ include 'share.php';
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
                             <a class="black" href="article" style="color:black;">
-                                <img src="images/eye.svg" class="mr-1"> View
+                                <img src="/images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
                         <div class="col-xl-2 col-md-3 col-6 p-0" style="position:relative;">
                             <button class="share-btn" style="color:black;">
-                                <img src="images/share.svg" class="mr-1"> Share</button>
+                                <img src="/images/share.svg" class="mr-1"> Share</button>
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
                                 <a href="article" id="face-btn" target="_blank">
-                                    <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                    <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
                                 <a href="article" id="twitter-btn" target="_blank">
-                                    <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="whatapp-btn" target="_blank">
-                                    <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="pinterest-btn" target="_blank">
-                                    <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                    <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
                             </div>
@@ -240,7 +240,7 @@ include 'share.php';
                                 What’s in a Yogurt? The Lowdown on 10 Popular Types
 
                             </h4>
-                            <img src="images/post2.png" class="w-100 mb-5">
+                            <img src="/images/post2.png" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
                                 Have you noticed how many varieties of yogurt there are to choose from these
@@ -267,26 +267,26 @@ include 'share.php';
 
                             <div class=" col-md-3 col-6 p-0">
                                 <a class="black" href="article" style="color:black;">
-                                    <img src="images/eye.svg" class="mr-1"> View
+                                    <img src="/images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
                             <div class="col-md-3 col-6 p-0" style="position:relative;">
                                 <button class="share-btn" style="color:black;">
-                                    <img src="images/share.svg" class="mr-1"> Share</button>
+                                    <img src="/images/share.svg" class="mr-1"> Share</button>
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
                                     <a href="article" id="face-btn" target="_blank">
-                                        <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                        <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
                                     <a href="article" id="twitter-btn" target="_blank">
-                                        <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="whatapp-btn" target="_blank">
-                                        <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="pinterest-btn" target="_blank">
-                                        <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                        <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
                                 </div>
@@ -318,26 +318,26 @@ include 'share.php';
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
                             <a class="black" href="article" style="color:black;">
-                                <img src="images/eye.svg" class="mr-1"> View
+                                <img src="/images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
                         <div class="col-xl-2 col-md-3 col-6 p-0" style="position:relative;">
                             <button class="share-btn" style="color:black;">
-                                <img src="images/share.svg" class="mr-1"> Share</button>
+                                <img src="/images/share.svg" class="mr-1"> Share</button>
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
                                 <a href="article" id="face-btn" target="_blank">
-                                    <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                    <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
                                 <a href="article" id="twitter-btn" target="_blank">
-                                    <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="whatapp-btn" target="_blank">
-                                    <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                    <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
                                 <a href="article" id="pinterest-btn" target="_blank">
-                                    <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                    <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
                             </div>
@@ -362,7 +362,7 @@ include 'share.php';
                                 What’s in a Yogurt? The Lowdown on 10 Popular Types
 
                             </h4>
-                            <img src="images/post3.png" class="w-100 mb-5">
+                            <img src="/images/post3.png" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
                                 Have you noticed how many varieties of yogurt there are to choose from these
@@ -389,26 +389,26 @@ include 'share.php';
 
                             <div class=" col-md-3 col-6 p-0">
                                 <a class="black" href="article" style="color:black;">
-                                    <img src="images/eye.svg" class="mr-1"> View
+                                    <img src="/images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
                             <div class="col-md-3 col-6 p-0" style="position:relative;">
                                 <button class="share-btn" style="color:black;">
-                                    <img src="images/share.svg" class="mr-1"> Share</button>
+                                    <img src="/images/share.svg" class="mr-1"> Share</button>
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
                                     <a href="article" id="face-btn" target="_blank">
-                                        <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
+                                        <img src="/images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
                                     <a href="article" id="twitter-btn" target="_blank">
-                                        <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="whatapp-btn" target="_blank">
-                                        <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
+                                        <img src="/images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
                                     <a href="article" id="pinterest-btn" target="_blank">
-                                        <img src="images/pinterest.svg" alt="Twitter" class=" " />
+                                        <img src="/images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
                                 </div>
@@ -436,19 +436,19 @@ include 'share.php';
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>
-                    <img src="images/post4.png" class="w-100 mb-5">
+                    <img src="/images/post4.png" class="w-100 mb-5">
                 </a>
                 <a class="black mb-5" href="article">
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>
-                    <img src="images/post5.png" class="w-100 mb-5">
+                    <img src="/images/post5.png" class="w-100 mb-5">
                 </a>
                 <a class="black mb-5" href="article">
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>
-                    <img src="images/post6.png" class="w-100 mb-5">
+                    <img src="/images/post6.png" class="w-100 mb-5">
                 </a>
             </div>
 

@@ -25,10 +25,10 @@
  <meta name="twitter:image:alt" content="">
 
   <meta name="theme-color" content="">
-  <link rel="icon" href="favicon.ico" type="image/png">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="/image/png">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 
 </head>
 
@@ -76,7 +76,7 @@ include 'share.php';
 
             <div class="col-lg-6  ">
 
-                <img src="images/mask2.png" class="w-100">
+                <img src="/images/mask2.png" class="w-100">
 
             </div>
             <div>

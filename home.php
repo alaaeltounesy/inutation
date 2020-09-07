@@ -23,7 +23,7 @@ include 'share.php';
             </div>
 
             <div class="col-lg-6 d-lg-none d-block text-center" style="position:relative;">
-                <img src="images/mask1.png" class="w-100 ">
+                <img src="/images/mask1.png" class="w-100 ">
                 <a href="services"  class="d-lg-none d-block" style="position: absolute;
     width: 80%;
     left: 10%;
@@ -69,7 +69,7 @@ include 'share.php';
             </div>
 
             <div class="col-lg-6 ">
-                <img src="images/mask2.png" class="w-100 ">
+                <img src="/images/mask2.png" class="w-100 ">
 
 
             </div>
@@ -184,7 +184,7 @@ include 'share.php';
             </div>
             <div class="col-xl-6 col-lg-10  row px-lg-0  col-11 mx-auto">
                 <div class="tab-content w-100" id="pills-tabContent">
-                    <div class="tab-pane fade show active" id="pills-nut1" role="tabpanel" aria-labelledby="pills-nut1-tab"><img src="images/nut1.png" class="w-100">
+                    <div class="tab-pane fade show active" id="pills-nut1" role="tabpanel" aria-labelledby="pills-nut1-tab"><img src="/images/nut1.png" class="w-100">
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                             <p>
                                 Having diabetes is a nightmare which requires proper
@@ -198,7 +198,7 @@ include 'share.php';
 
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab"><img src="images/nut2.png" class="w-100">
+                    <div class="tab-pane fade" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab"><img src="/images/nut2.png" class="w-100">
 
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                             <p>Different medical conditions require different
@@ -211,7 +211,7 @@ include 'share.php';
 
 
                     </div>
-                    <div class="tab-pane fade" id="pills-nut3" role="tabpanel" aria-labelledby="pills-nut3-tab"><img src="images/nut3.png" class="w-100">
+                    <div class="tab-pane fade" id="pills-nut3" role="tabpanel" aria-labelledby="pills-nut3-tab"><img src="/images/nut3.png" class="w-100">
 
 
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
@@ -229,7 +229,7 @@ include 'share.php';
                         </div>
 
                     </div>
-                    <div class="tab-pane fade" id="pills-nut4" role="tabpanel" aria-labelledby="pills-nut4-tab"><img src="images/nut4.png" class="w-100">
+                    <div class="tab-pane fade" id="pills-nut4" role="tabpanel" aria-labelledby="pills-nut4-tab"><img src="/images/nut4.png" class="w-100">
 
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                             <p>
@@ -245,7 +245,7 @@ include 'share.php';
 
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="pills-nut5" role="tabpanel" aria-labelledby="pills-nut5-tab"><img src="images/nut5.png" class="w-100">
+                    <div class="tab-pane fade" id="pills-nut5" role="tabpanel" aria-labelledby="pills-nut5-tab"><img src="/images/nut5.png" class="w-100">
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                             <p>
                                 “We are indeed much more than what we eat, but what
@@ -293,8 +293,8 @@ include 'share.php';
             </div>
 
             <div class="col-12 py-lg-5">
-                <img src="images/icon3.png" class="w-100 d-lg-block d-none">
-                <img src="images/iconm.png" class="w-100 d-lg-none d-block">
+                <img src="/images/icon3.png" class="w-100 d-lg-block d-none">
+                <img src="/images/iconm.png" class="w-100 d-lg-none d-block">
             </div>
 
             <div class="col-lg-4 col-8 text-center mx-auto">
@@ -318,7 +318,7 @@ include 'share.php';
         </h3>
         <div class="col-12 px-0">
 
-            <img src="images/veg.png" class="w-100">
+            <img src="/images/veg.png" class="w-100">
         </div>
 
     </div>

@@ -23,10 +23,10 @@
  <meta name="twitter:image:alt" content="">
 
   <meta name="theme-color" content="">
-  <link rel="icon" href="favicon.ico" type="image/png">
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="/image/png">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 
 </head>
 
@@ -77,7 +77,7 @@ include 'share.php';
 
             <div class="col-lg-6  ">
 
-                <img src="images/img1-c.png" class="w-100 ">
+                <img src="/images/img1-c.png" class="w-100 ">
 
             </div>
             <div>
@@ -159,7 +159,7 @@ include 'share.php';
             <div class="  col-xl-4 col-md-6 p-0 my-md-5 my-3">
 
                 <a  target="_black" class="italic-SemiBold black mt-5" href="https://www.facebook.com/ShadiaHamadeh/">
-                     <img src="images/facebook.svg" class="mr-lg-4 mr-2">inutrition4u</a>
+                     <img src="/images/facebook.svg" class="mr-lg-4 mr-2">inutrition4u</a>
             </div>
 
          
@@ -168,20 +168,20 @@ include 'share.php';
 
                 <a  target="_black" class="italic-SemiBold black mt-5"
                  href="https://instagram.com/inutrition4u?igshid=bpedptz2dhqb">
-                  <img src="images/insta.svg" class="mr-lg-4 mr-2">inutrition4u</a>
+                  <img src="/images/insta.svg" class="mr-lg-4 mr-2">inutrition4u</a>
             </div>
             <div class="  col-xl-4 col-md-6 p-0 my-md-5 my-3">
 
                 <a  target="_black" class="italic-SemiBold black mt-5"
                  href="https://www.linkedin.com/in/shadia-hamadeh-ms-rdn-ldn-clc-07b3a341/"> 
-                 <img src="images/linkedin.svg" class="mr-lg-4 mr-2">Shadia Hamadeh</a>
+                 <img src="/images/linkedin.svg" class="mr-lg-4 mr-2">Shadia Hamadeh</a>
             </div>
 
               
             <div class="  col-xl-5 col-md-6 p-0 my-md-5 my-3">
 
                 <a  target="_black" class="italic-SemiBold black mt-5" href="mailto:shadia.hamadeh@gmail.com"> 
-                    <img src="images/mail.svg" class="mr-lg-4 mr-2">shadia.hamadeh@gmail.com</a>
+                    <img src="/images/mail.svg" class="mr-lg-4 mr-2">shadia.hamadeh@gmail.com</a>
             </div>
         </div>
     </div>
