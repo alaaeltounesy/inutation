@@ -1,9 +1,5 @@
 {
-    "name": "shadia/inutation",
-    "description": "shadia website",
-    "type": "project",
     "require": {
         "klein/klein": "^2.1"
-    },
-    "license": "MIT"
+    }
 }
