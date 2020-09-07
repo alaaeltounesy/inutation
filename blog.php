@@ -121,20 +121,13 @@ include 'share.php';
                     <div class="post mb-5">
                         <a href="article" class="black">
                             <h4 class=" bold-m mb-5">
-                                What’s in a Yogurt? The Lowdown on 10 Popular Types
+                            Nutrition During Your Pregnancy  
 
                             </h4>
-                            <img src="images/post1.png" class="w-100 mb-5">
+                            <img src="images/post1.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
-                                Have you noticed how many varieties of yogurt there are to choose from these
-                                days? How are they alike or different? All yogurts are made from milk that is
-                                fermented with live cultures of healthy bacteria. Fermentation turns lactose, the
-                                natural sugar in milk, into lactic acid, which gives yogurt its sour flavor.<br> <br>
-                                However, yogurt can be made from different types of milk, strained or unstrained,
-                                plain or flavored, and full-fat or low-fat. Some may be high in protein or fiber. But be
-                                sure to check the ingredients for added sugars, artificial sweeteners, thickeners, and
-                                other ingredients that can add calories or carbohydrates.
+                            Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child.
                             </h5>
                         </a>
               <!--social post moble-->
