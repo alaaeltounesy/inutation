@@ -1,7 +1,7 @@
 <div id="share-buttons">
 
   <!-- Facebook -->
- <div> <a class="" href="#" target="_blank">
+ <div> <a class="" href="https://www.facebook.com/ShadiaHamadeh/" target="_blank">
         <img src="images/facebook.svg" alt="Facebook" class="w-10" />
     </a>
     </div>

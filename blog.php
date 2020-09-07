@@ -79,7 +79,7 @@ include 'share.php';
                         </div>
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
-                            <a class="black" href="article.php" style="color:black;">
+                            <a class="black" href="article" style="color:black;">
                                 <img src="images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
@@ -89,16 +89,16 @@ include 'share.php';
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
-                                <a href="article.php" id="face-btn" target="_blank">
+                                <a href="article" id="face-btn" target="_blank">
                                     <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="twitter-btn" target="_blank">
+                                <a href="article" id="twitter-btn" target="_blank">
                                     <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="whatapp-btn" target="_blank">
+                                <a href="article" id="whatapp-btn" target="_blank">
                                     <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="pinterest-btn" target="_blank">
+                                <a href="article" id="pinterest-btn" target="_blank">
                                     <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
@@ -119,7 +119,7 @@ include 'share.php';
                     <!-- article sec-->
 
                     <div class="post mb-5">
-                        <a href="article.php" class="black">
+                        <a href="article" class="black">
                             <h4 class=" bold-m mb-5">
                                 What’s in a Yogurt? The Lowdown on 10 Popular Types
 
@@ -150,7 +150,7 @@ include 'share.php';
                             </div>
 
                             <div class=" col-md-3 col-6 p-0">
-                                <a class="black" href="article.php" style="color:black;">
+                                <a class="black" href="article" style="color:black;">
                                     <img src="images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
@@ -160,16 +160,16 @@ include 'share.php';
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
-                                    <a href="article.php" id="face-btn" target="_blank">
+                                    <a href="article" id="face-btn" target="_blank">
                                         <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="twitter-btn" target="_blank">
+                                    <a href="article" id="twitter-btn" target="_blank">
                                         <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="whatapp-btn" target="_blank">
+                                    <a href="article" id="whatapp-btn" target="_blank">
                                         <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="pinterest-btn" target="_blank">
+                                    <a href="article" id="pinterest-btn" target="_blank">
                                         <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
@@ -202,7 +202,7 @@ include 'share.php';
                         </div>
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
-                            <a class="black" href="article.php" style="color:black;">
+                            <a class="black" href="article" style="color:black;">
                                 <img src="images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
@@ -212,16 +212,16 @@ include 'share.php';
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
-                                <a href="article.php" id="face-btn" target="_blank">
+                                <a href="article" id="face-btn" target="_blank">
                                     <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="twitter-btn" target="_blank">
+                                <a href="article" id="twitter-btn" target="_blank">
                                     <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="whatapp-btn" target="_blank">
+                                <a href="article" id="whatapp-btn" target="_blank">
                                     <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="pinterest-btn" target="_blank">
+                                <a href="article" id="pinterest-btn" target="_blank">
                                     <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
@@ -242,7 +242,7 @@ include 'share.php';
                     <!-- article sec-->
 
                     <div class="post mb-5">
-                        <a href="article.php" class="black">
+                        <a href="article" class="black">
                             <h4 class=" bold-m mb-5">
                                 What’s in a Yogurt? The Lowdown on 10 Popular Types
 
@@ -273,7 +273,7 @@ include 'share.php';
                             </div>
 
                             <div class=" col-md-3 col-6 p-0">
-                                <a class="black" href="article.php" style="color:black;">
+                                <a class="black" href="article" style="color:black;">
                                     <img src="images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
@@ -283,16 +283,16 @@ include 'share.php';
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
-                                    <a href="article.php" id="face-btn" target="_blank">
+                                    <a href="article" id="face-btn" target="_blank">
                                         <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="twitter-btn" target="_blank">
+                                    <a href="article" id="twitter-btn" target="_blank">
                                         <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="whatapp-btn" target="_blank">
+                                    <a href="article" id="whatapp-btn" target="_blank">
                                         <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="pinterest-btn" target="_blank">
+                                    <a href="article" id="pinterest-btn" target="_blank">
                                         <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
@@ -324,7 +324,7 @@ include 'share.php';
                         </div>
 
                         <div class="col-xl-2 col-md-3 mt-md-0 mt-3 col-6 p-0">
-                            <a class="black" href="article.php" style="color:black;">
+                            <a class="black" href="article" style="color:black;">
                                 <img src="images/eye.svg" class="mr-1"> View
                             </a>
                         </div>
@@ -334,16 +334,16 @@ include 'share.php';
 
                             <div class="share-buttons">
                                 <!-- Facebook -->
-                                <a href="article.php" id="face-btn" target="_blank">
+                                <a href="article" id="face-btn" target="_blank">
                                     <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="twitter-btn" target="_blank">
+                                <a href="article" id="twitter-btn" target="_blank">
                                     <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="whatapp-btn" target="_blank">
+                                <a href="article" id="whatapp-btn" target="_blank">
                                     <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                 </a>
-                                <a href="article.php" id="pinterest-btn" target="_blank">
+                                <a href="article" id="pinterest-btn" target="_blank">
                                     <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                 </a>
 
@@ -364,7 +364,7 @@ include 'share.php';
                     <!-- article sec-->
 
                     <div class="post mb-5">
-                        <a href="article.php" class="black">
+                        <a href="article" class="black">
                             <h4 class=" bold-m mb-5">
                                 What’s in a Yogurt? The Lowdown on 10 Popular Types
 
@@ -395,7 +395,7 @@ include 'share.php';
                             </div>
 
                             <div class=" col-md-3 col-6 p-0">
-                                <a class="black" href="article.php" style="color:black;">
+                                <a class="black" href="article" style="color:black;">
                                     <img src="images/eye.svg" class="mr-1"> View
                                 </a>
                             </div>
@@ -405,16 +405,16 @@ include 'share.php';
 
                                 <div class="share-buttons">
                                     <!-- Facebook -->
-                                    <a href="article.php" id="face-btn" target="_blank">
+                                    <a href="article" id="face-btn" target="_blank">
                                         <img src="images/facebook.svg" alt="Facebook" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="twitter-btn" target="_blank">
+                                    <a href="article" id="twitter-btn" target="_blank">
                                         <img src="images/twitter.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="whatapp-btn" target="_blank">
+                                    <a href="article" id="whatapp-btn" target="_blank">
                                         <img src="images/whatsapp.svg" alt="Twitter" class="mr-3 " />
                                     </a>
-                                    <a href="article.php" id="pinterest-btn" target="_blank">
+                                    <a href="article" id="pinterest-btn" target="_blank">
                                         <img src="images/pinterest.svg" alt="Twitter" class=" " />
                                     </a>
 
@@ -439,19 +439,19 @@ include 'share.php';
             <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                 <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                <a class="black mb-5" href="article.php">
+                <a class="black mb-5" href="article">
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>
                     <img src="images/post4.png" class="w-100 mb-5">
                 </a>
-                <a class="black mb-5" href="article.php">
+                <a class="black mb-5" href="article">
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>
                     <img src="images/post5.png" class="w-100 mb-5">
                 </a>
-                <a class="black mb-5" href="article.php">
+                <a class="black mb-5" href="article">
                     <h5 class="  mb-3 italic-light-m">
                         Fear of Carbs
                     </h5>

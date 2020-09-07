@@ -71,7 +71,7 @@ include 'share.php';
 
 
                         <div class="col-6 p-0 text-left">
-                            <a class="black" href="blog.php" style="color:black;">
+                            <a class="black" href="blog" style="color:black;">
                                 <img src="images/backarr.svg" class="mr-1">
                             </a>
 

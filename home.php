@@ -16,7 +16,7 @@ include 'share.php';
                         <br> finding the right food
 
                     </p>
-                    <a href="services.php" class="d-lg-block d-none">
+                    <a href="services" class="d-lg-block d-none">
                         <button class="btn   str-btn col-6"> START TODAY</button>
                     </a>
                 </div>
@@ -24,7 +24,7 @@ include 'share.php';
 
             <div class="col-lg-6 d-lg-none d-block text-center" style="position:relative;">
                 <img src="images/mask1.png" class="w-100 ">
-                <a href="services.php"  class="d-lg-none d-block" style="position: absolute;
+                <a href="services"  class="d-lg-none d-block" style="position: absolute;
     width: 80%;
     left: 10%;
     bottom: 10%;">
@@ -106,7 +106,7 @@ include 'share.php';
 
             </div>
             <div class="col-lg-4 col-8 text-center mx-auto">
-                <a href="services.php">
+                <a href="services">
                     <button class="btn lrn-btn mb-5 w-80 ">
                         LEARN MORE
                     </button>
@@ -298,7 +298,7 @@ include 'share.php';
             </div>
 
             <div class="col-lg-4 col-8 text-center mx-auto">
-                <a href="services.php">
+                <a href="services">
                     <button class="btn my-5 lrn-btn w-80 ">
                         LEARN MORE
                     </button>

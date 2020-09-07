@@ -1,10 +1,18 @@
 
+
+
+ <link rel="icon" href="favicon.ico" type="image/png">
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+ 
+</head>
 <body>
 
   <!--header-->
   <section class="sec-header d-lg-block d-none">
     <nav class="navbar navbar-expand-lg navbar-light py-4 w-80 ">
-      <a class="navbar-brand" href="#"><img src="images/logo.png" class="w-100"></a>
+      <a class="navbar-brand" href="/"><img src="images/logo.png" class="w-100"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -16,18 +24,18 @@
             <a class="nav-link " href="/">HOME</a>
           </li>
           <li class="nav-item  <?php if ($pn == "About") echo 'active'; ?>">
-            <a class="nav-link" href="about.php">ABOUT</a>
+            <a class="nav-link" href="about">ABOUT</a>
           </li>
           <li class="nav-item <?php if ($pn == "Services") echo 'active'; ?>">
-            <a class="nav-link" href="Services.php">SERVICES</a>
+            <a class="nav-link" href="Services">SERVICES</a>
           </li>
           <li class="nav-item <?php if ($pn == "Blog") echo 'active'; ?>">
-            <a class="nav-link" href="blog.php">BLOG</a>
+            <a class="nav-link" href="blog">BLOG</a>
           </li>
 
 
           <li class="nav-item <?php if ($pn == "Contact") echo 'active'; ?>">
-            <a class="nav-link" href="Contact.php">CONTACT</a>
+            <a class="nav-link" href="Contact">CONTACT</a>
           </li>
         </ul>
 
@@ -62,10 +70,10 @@
             <a class="nav-link " href="/">HOME</a>
           </li>
           <li class="nav-item <?php if ($pn == "About") echo 'active'; ?>">
-            <a class="nav-link  " href="about.php">ABOUT</a>
+            <a class="nav-link  " href="about">ABOUT</a>
           </li>
           <li class="nav-item <?php if ($pn == "Services") echo 'active'; ?> ">
-            <a class="nav-link" href="Services.php">SERVICES</a>
+            <a class="nav-link" href="Services">SERVICES</a>
           </li>
           <li class="nav-item <?php if ($pn == "Blog") echo 'active'; ?>">
             <a class="nav-link" href="#">BLOG</a>
@@ -73,7 +81,7 @@
 
 
           <li class="nav-item <?php if ($pn == "Contact") echo 'active'; ?>">
-            <a class="nav-link" href="Contact.php">CONTACT</a>
+            <a class="nav-link" href="Contact">CONTACT</a>
           </li>
         </ul>
 

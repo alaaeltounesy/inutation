@@ -217,7 +217,7 @@ $('.btn-like').click(function () {
     clicks++;
     $(this).children('.clicks').text(clicks);
     localStorage.setItem(likeid, "1");
-    postData('test.php', { action: 'add' })
+    postData('test', { action: 'add' })
       .then(data => {
         console.log(data); // JSON data parsed by `data.json()` call
       });
@@ -228,7 +228,7 @@ $('.btn-like').click(function () {
     clicks--;
     $(this).children('.clicks').text(clicks);
     localStorage.removeItem(likeid);
-    postData('test.php', { action: 'remove' })
+    postData('test', { action: 'remove' })
       .then(data => {
         console.log(data); // JSON data parsed by `data.json()` call
       });
@@ -247,7 +247,7 @@ $('.btn-like').each(function (i, obj) {
 
 var x = window.location.href;
 if (document.getElementById("face-btn")) {
-  document.getElementById("face-btn").href = "http://www.facebook.com/sharer.php?u=" + x;
+  document.getElementById("face-btn").href = "http://www.facebook.com/sharer?u=" + x;
   document.getElementById("twitter-btn").href = "https://twitter.com/share?url=" + x;
   document.getElementById("whatapp-btn").href = "whatsapp://send?text=" + x;
   document.getElementById("pinterest-btn").href = "https://www.pinterest.com/pin/create/button/?url=" + x;

@@ -40,7 +40,7 @@
       <div class="col-lg-4  "></div>
       <div class="col-lg-4 social-footer col-8 mx-auto px-lg-1 px-4  mx-0  row justify-content-center">
         <div class="col-4   px-lg-0 px-4">
-          <a href="#" target="_black" class="text-left w-75"><img src="images/facebook.svg"></a>
+          <a href="https://www.facebook.com/ShadiaHamadeh/" target="_black" class="text-left w-75"><img src="images/facebook.svg"></a>
         </div>
 
         <div class="col-4  text-center px-lg-0 px-4">
@@ -57,7 +57,7 @@
       <div class="col-lg-4  "></div>
       <div class="col-xl-4 px-lg-0 px-4">
         <p class="text-center regular mt-5">
-          © All Rights Reserved <a href="#" class="green">Inutrition4U</a><br>
+          © All Rights Reserved <a href="/" class="green">Inutrition4U</a><br>
           POWERED BY <a href="https://www.rewardlion.com/" class="green">RewardLion</a> 2020
         </p>
       </div>
