@@ -1,11 +1,5 @@
-<?php $pn = "Services"; ?>
-
-
-
-<?php
+<?php $pn = "Services";
 include 'header.php';
-?>
-<?php
 include 'share.php';
 ?>
 

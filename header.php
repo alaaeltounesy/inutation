@@ -20,7 +20,7 @@
   <meta name="twitter:card" content="">
   <meta property="og:site_name" content="">
   <meta name="twitter:image:alt" content="">
-  <meta property="og: type" content="">
+  <meta property="og:type" content="">
   <meta name="theme-color" content="">
   <link rel="icon" href="favicon.ico" type="image/png">
   <link rel="stylesheet" href="css/bootstrap.min.css" />
