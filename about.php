@@ -1,3 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+  Inutrition4u | About
+  </title>
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <meta name="title" content="">
+
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og: type" content="">
+
+  <meta name="twitter:card" content="">
+ <meta name="twitter:image:alt" content="">
+
+  <meta name="theme-color" content="">
+  <link rel="icon" href="favicon.ico" type="image/png">
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+
+</head>
+
+
+
+
+
+
+
+
+
+
 <?php $pn = "About"; ?>
 
 

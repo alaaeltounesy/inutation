@@ -320,8 +320,11 @@ div#share-buttons div {
 }@media (max-width:600px)
 {
 body .sec4 .nav a {
-    padding: 1rem;
+
     font-size: 1.2rem;
+}
+body .sec4 .nav li.nav-item{
+    padding: 1rem;
 }
 }
 .lrn-btn{
@@ -352,8 +355,7 @@ body .sec4 .nav a {
     font-weight: 500;
     font-size: 1.4rem;
     font-family:SemiBold!important;  
-    padding: 2rem 2rem;
-    border-bottom: 1px solid lightgray;
+   
 }
 .fly-green{
     position: absolute;
@@ -369,11 +371,9 @@ body .sec4 .nav a {
     box-shadow: 0px 3px 3px 3px lightgrey;
     transition: all 0.5s cubic-bezier(0.57, -0.32, 0.42, 1.19);
 }
-.sec4 .nav-link {
-    height: 110px;
-}
+
 .sec4 .nav{
- 
+   
     position: relative;
 }
 
@@ -384,6 +384,11 @@ body .sec4 .nav a {
 z-index: 101;
 
 
+}
+.sec4 li.nav-item{
+    height: 110px;
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid lightgray;
 }
 .sec4 .cont-tabs{  font-family:italic-light!important; 
 }

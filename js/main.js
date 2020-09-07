@@ -1,4 +1,21 @@
 
+$(".sec-links .nav-link").click(function(){
+		
+		var aHref = $(this).attr("href");
+    var d = $(aHref).offset().top;
+    if ( $(window).width() > 1200)
+     {
+      var z=d-180
+    }
+   else{
+    var z=d-100
+   }
+		$("html,body").animate({scrollTop:z} );
+	});
+
+
+
+//
 $(".cardser").hover(function () {
   $(this).children(".cardser .fade-s").fadeToggle();
   $(this).children(".cardser .s-h").fadeToggle();
