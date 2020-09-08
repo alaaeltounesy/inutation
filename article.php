@@ -177,6 +177,7 @@ Have a healthy pregnancy to have a healthy baby!
     <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
         <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
+<<<<<<< Updated upstream
         <a class="black mb-5" href="#">
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
@@ -184,12 +185,16 @@ Have a healthy pregnancy to have a healthy baby!
             <img src="/images/post4.png" class="w-100 mb-5">
         </a>
         <a class="black mb-5" href="#">
+=======
+   
+        <a class="black mb-5" href="article2.php">
+>>>>>>> Stashed changes
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
             </h5>
             <img src="/images/post5.png" class="w-100 mb-5">
         </a>
-        <a class="black mb-5" href="#">
+        <a class="black mb-5" href="article3.php">
             <h5 class="  mb-3 italic-light-m">
                 Fear of Carbs
             </h5>
