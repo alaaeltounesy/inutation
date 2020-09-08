@@ -27,34 +27,8 @@
  <meta name="twitter:image:alt" content="">
 
   <meta name="theme-color" content="">
-  <link rel="icon" href="favicon.ico" type="/image/png">
-  <link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
-  <link rel="stylesheet" href="/css/style.css" />
-
-</head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<?php $pn = "article"; ?>
-
-
-
-<?php
+<?php $pn = "article";
 include 'header.php';
-?>
-<?php
 include 'share.php';
 ?>
 <!--secblog1
