@@ -40,7 +40,7 @@
         </ul>
 
 
-        <a href="#"> <button class="btn  my-2 my-sm-0 sch-btn">SCHEDULE</button>
+        <a href="/Services"> <button class="btn  my-2 my-sm-0 sch-btn">SCHEDULE</button>
         </a>
       </div>
     </nav>
@@ -54,7 +54,7 @@
   <section class="sec-header head-mob px-4 d-lg-none d-block">
     <nav class="navbar navbar-expand-lg navbar-light   ">
 
-    <a href="#"> <button class="btn   my-sm-0 sch-btn-m">SCHEDULE</button>
+    <a href="/Services"> <button class="btn   my-sm-0 sch-btn-m">SCHEDULE</button>
         </a>
       <a class="navbar-brand mx-auto" href="/"><img src="/images/logo.png" class="w-100 d-md-block d-none">
       <img src="/images/logo.png" style="width:100px;" class="d-md-none d-block mx-auto">

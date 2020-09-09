@@ -29,7 +29,7 @@
             </div>
             
 
-          </div><div class="alert text-capitalize  alert-danger my-lg-5 mt-4  mx-auto px-5 col-lg-6 col-md-8 mx-auto text-center" role="alert">
+          </div><div class="alert text-capitalize  alert-success my-lg-5 mt-4  mx-auto px-5 col-lg-6 col-md-8 mx-auto text-center" role="alert">
           Thank You For Subscribing
             </div>
         </form>

@@ -120,7 +120,7 @@ include 'share.php';
                         <button type="submit" class="btn col-lg-5 submit-form-btn col-6 py-2 mx-auto my-4 text-center sent-btn">SEND</button>
 
                     </div>
-                    <div class="alert text-capitalize  alert-danger my-lg-5 mx-auto px-5 text-center" role="alert">
+                    <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
                     Thank you for reaching out to us, we will get back to you as soon as possible!
             </div>
                 </form>

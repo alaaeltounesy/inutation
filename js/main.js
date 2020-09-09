@@ -223,7 +223,7 @@ $(document).ready(function () {
     
     //  $this.children('.msg-alrt').html();
     });
-    $(this).children(".alert-danger").show("show").delay(2000).hide("show");
+    $(this).children(".alert").show("show").delay(3000).hide("show");
   });
 });
 var clicks = 0;
