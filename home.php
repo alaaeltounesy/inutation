@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Inutrition4u | Home
+    </title>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <meta name="title" content="">
+
+    <meta name="description" content="">
+
+
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og: type" content="">
+    <meta name="twitter:card" content="">
+    <meta name="twitter:image:alt" content="">
+    <meta name="theme-color" content="">
+
+
+
+
 <?php $pn = "Home";
 include 'header.php';
 include 'share.php';
@@ -165,7 +195,9 @@ include 'share.php';
                             Medical Nutrition Therapy</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-zohlaa="110" id="pills-nut2-tab" data-toggle="pill" href="#pills-nut2" role="tab" aria-controls="pills-nut2" aria-selected="false">Customized Nutrition Plan <br class="d-xl-block d-none">for Medical Conditions</a>
+                        <a class="nav-link" data-zohlaa="110" id="pills-nut2-tab" data-toggle="pill"
+                         href="#pills-nut2" role="tab" aria-controls="pills-nut2" aria-selected="false">
+                         Customized Nutrition Plan <br class="">for Medical Conditions</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" data-zohlaa="220" id="pills-nut3-tab" data-toggle="pill" href="#pills-nut3" role="tab" aria-controls="pills-nut3" aria-selected="false">Weight Management Plan</a>

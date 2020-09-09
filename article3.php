@@ -4,7 +4,7 @@
 <head>
     <title>
 
-        Inutrition4u | Blog
+        Inutrition4u3 | Blog
     </title>
 
 
@@ -60,11 +60,11 @@
                         <div class="post mb-5 ">
 
                             <h4 class=" bold-m mb-5">
-                                Nutrition During Your Pregnancy
+                              post3
 
 
                             </h4>
-                            <img src="/images/post1.jpg" class="w-100 mb-5">
+                            <img src="/images/post1-2.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
                                 Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child. Here are some tips and answers about what the dietary system you need during pregnancy:
@@ -126,7 +126,7 @@
 
 
                                 <div class="col-md-3 col-xl-2 col-6 p-0">
-                                    <button type="button" class="btn-like black" data-id="1">
+                                    <button type="button" class="btn-like black" data-id="3">
                                         <svg class=" svgheart" xmlns="http://www.w3.org/2000/svg" width="11.332" height="10.082" viewBox="0 0 11.332 10.082">
                                             <path id="heart" d="M10.433.987A3.047,3.047,0,0,0,8.167,0,2.851,2.851,0,0,0,6.386.615a3.643,3.643,0,0,0-.72.752,3.641,3.641,0,0,0-.72-.752A2.85,2.85,0,0,0,3.166,0,3.047,3.047,0,0,0,.9.987,3.542,3.542,0,0,0,0,3.406,4.218,4.218,0,0,0,1.124,6.166,23.966,23.966,0,0,0,3.938,8.807c.39.332.832.709,1.291,1.11a.665.665,0,0,0,.876,0c.459-.4.9-.778,1.291-1.11a23.953,23.953,0,0,0,2.813-2.641,4.217,4.217,0,0,0,1.124-2.761,3.542,3.542,0,0,0-.9-2.419Zm0,0" transform="translate(-0.001)" />
                                         </svg> <span class="clicks mr-1">5</span> Likes</button>
@@ -175,21 +175,23 @@
                 <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                     <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                     <a class="black mb-5" href="article2">
+                     <a class="black mb-5" href="article">
                         <h5 class="  mb-3 italic-light-m">
-                           post2
+                        Nutrition During Your Pregnancy
+
                         </h5>
-                        <img src="/images/post4.png" class="w-100 mb-5">
+                        <img src="/images/post1.jpg" class="w-100 mb-5">
                         </a>
                        
-                            <a class="black mb-5" href="article3">
+
+                            <a class="black mb-5" href="article2">
                                 
                                 <h5 class="  mb-3 italic-light-m">
-                                 post3
+                                   post2
                                 </h5>
                                 <img src="/images/post5.png" class="w-100 mb-5">
                             </a>
-                         
+                           
                 </div>
 
 

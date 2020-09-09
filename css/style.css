@@ -15,8 +15,11 @@ font-size: 2.0rem;
    body h2 {
         font-size: 1.6rem;
 }
-body h3 {
+body h3{
     font-size: 1.4rem;
+}
+body h4 {
+    font-size: 1.2rem;
 }
 }
 @font-face{
@@ -324,7 +327,7 @@ body .sec4 .nav a {
     font-size: 1.2rem;
 }
 body .sec4 .nav li.nav-item{
-    padding: 1rem;
+    padding:0px 1rem;
 }
 }
 .lrn-btn{
@@ -386,8 +389,12 @@ z-index: 101;
 
 }
 .sec4 li.nav-item{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
     height: 110px;
-    padding: 1.5rem 2rem;
+    display: flex;
+    padding: 0rem 2rem;
     border-bottom: 1px solid lightgray;
 }
 .sec4 .cont-tabs{  font-family:italic-light!important; 
@@ -516,9 +523,7 @@ top:-3.5rem;
         margin: 2rem auto -3rem;
         padding: 0px .5rem;
     } 
-    .social-contact{
-        text-align: center;;
-    }
+   
 }
 
 

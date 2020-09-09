@@ -11,11 +11,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-  <meta name="title" content="">
+  <meta name="title" content="  Inutrition4u | About">
 
   <meta name="description" content="">
 
-  <meta property="og:title" content="">
+  <meta property="og:title" content="  Inutrition4u | About">
   <meta property="og:description" content="">
   <meta property="og:image" content="">
   <meta property="og:url" content="">
@@ -28,10 +28,6 @@
 
 
 </head>
-
-
-
-
 
 
 

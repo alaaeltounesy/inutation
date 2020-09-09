@@ -76,7 +76,7 @@
             <a class="nav-link" href="Services">SERVICES</a>
           </li>
           <li class="nav-item <?php if ($pn == "Blog") echo 'active'; ?>">
-            <a class="nav-link" href="#">BLOG</a>
+            <a class="nav-link" href="/Blog">BLOG</a>
           </li>
 
 

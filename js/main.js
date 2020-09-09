@@ -38,13 +38,34 @@ $(".cardser .learn-more").click(function (e) {
   });
 
 });
+$(".sec4 .nav-link").on("click",function (e) {
+ 
+  $(".fly-green").animate({top:x+"px"} );
+  var y = $(this).data('zohlaa');
+  $(".fly-green").css({ transform: 'translateY(' + y + 'px)' });
+  console.log(e);
+
+});
+/*$(".element").css("transform", "rotateY(90deg)");
+
+
+$('.show').click(function(){
+    $(this).css({"-webkit-transform" : "rotate(90deg)"});
+}
+);
 $(".sec4 .nav-link").click(function (e) {
   var y = $(this).data('zohlaa');
   $(".fly-green").css({ transform: 'translateY(' + y + 'px)' });
   console.log(e);
 
 });
-/*
+/ var y = $(this).offset().top;
+  var z = $(".fly-green").offset().top;
+  var x=y-z;
+ // $(".fly-green").css("transform","translateY(" + x + "px)");
+
+
+
 $(".sec4 .nav-link").click(function (e) {
   var y = $(this).data('zohlaa');
   $(".fly-green").css({transform: 'translateY('+y+'px)'});
