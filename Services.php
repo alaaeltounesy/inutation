@@ -83,12 +83,12 @@
     <section class="bg-ser1 py-5">
         <div class="container-fluid py-xl-5  w-85 ">
             <div class="row py-xl-5 ">
-                <h1 class="mb-lg-5 mb-3 col-12 italic-SemiBold ">
+                <h1 class="mb-lg-5 pl-xl-0 mb-3 col-12 italic-SemiBold ">
                     "Creating Healthier Lives
                     "
                 </h1>
 
-                <div class="col-xl-6">
+                <div class="col-xl-5 pr-xl-5 pl-xl-0">
 
                     <h5 class="my-xl-5 italic-med">
                         As a Registered Dietitian/Nutritionist, Shadia will work as part of your health care team to improve your health by preventing or managing chronic diseases affected by nutrition. At Inutrition4U, we use evidence-based nutrition science to achieve changes in dietary patterns and nutritional status. This can improve overweight, underweight, blood sugar control, blood pressure, elevated cholesterol, and GI disorders.
