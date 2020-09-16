@@ -131,7 +131,7 @@ include 'share.php';
                     Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases
                     of chronic diseases that could have been prevented by the right food choices. It’s insane how 95% of all
                     those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a
-                    good diet plan.
+                    good nutrition plan.
                 </h5>
 
             </div>
@@ -162,9 +162,7 @@ include 'share.php';
 
 
                 <h2 class="Peach px-xl-5 py-xl-5 mx-xl-3 p-3 italic-SemiBold" style="border:5px solid;">
-                    Forget about fad diets that might be
-                    poisoning you and your family, and get
-                    your customized diet plan today!
+                Forget about fad diets that might be harming you and your family and get your nutrition plan today!
                     </h3>
 
             </div>
@@ -189,26 +187,38 @@ include 'share.php';
                     </div>
 
                     <li class="nav-item">
-
-
-                        <a class="nav-link active" data-zohlaa="0" id="pills-nut1-tab" data-toggle="pill" href="#pills-nut1" role="tab" aria-controls="pills-nut1" aria-selected="true">
-                            Medical Nutrition Therapy</a>
+                        <a class="nav-link active" data-zohlaa="0" id="pills-nut2-tab" data-toggle="pill"
+                         href="#pills-nut2" role="tab" aria-controls="pills-nut2" aria-selected="true">
+                         Personalized Nutrition Plan for Medical Conditions</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-zohlaa="110" id="pills-nut2-tab" data-toggle="pill"
-                         href="#pills-nut2" role="tab" aria-controls="pills-nut2" aria-selected="false">
-                         Customized Nutrition Plan <br class="">for Medical Conditions</a>
+                        <a class="nav-link" data-zohlaa="110" id="pills-nut3-tab" data-toggle="pill" 
+                        href="#pills-nut3" role="tab" aria-controls="pills-nut3" aria-selected="false">
+                        Weight Management </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-zohlaa="220" id="pills-nut3-tab" data-toggle="pill" href="#pills-nut3" role="tab" aria-controls="pills-nut3" aria-selected="false">Weight Management Plan</a>
+                        <a class="nav-link" data-zohlaa="220" id="pills-nut7-tab" data-toggle="pill" 
+                        href="#pills-nut7" role="tab" aria-controls="pills-nut7" aria-selected="false">
+                        Meal Planning </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4" role="tab" aria-controls="pills-nut4" aria-selected="false">Pre and Post Pregnancy Plan
+                        <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab"
+                         data-toggle="pill" href="#pills-nut4" role="tab" aria-controls
+                         ="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-zohlaa="440" id="pills-nut5-tab" data-toggle="pill" href="#pills-nut5" role="tab" aria-controls="pills-nut5" aria-selected="false"> Health & Wellness Plan
+                        <a class="nav-link" data-zohlaa="440" id="pills-nut5-tab" data-toggle="pill"
+                         href="#pills-nut5" role="tab" aria-controls="pills-nut5" aria-selected="false">
+                          Health & Wellness 
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" data-zohlaa="550" id="pills-nut6-tab" data-toggle="pill"
+                         href="#pills-nut6" role="tab" aria-controls="pills-nut6" aria-selected="false">
+                         Lactation and Breastfeeding
                         </a>
                     </li>
                 </ul>
@@ -216,21 +226,9 @@ include 'share.php';
             </div>
             <div class="col-xl-6 col-lg-10  row px-lg-0  col-11 mx-auto">
                 <div class="tab-content w-100" id="pills-tabContent">
-                    <div class="tab-pane fade show active" id="pills-nut1" role="tabpanel" aria-labelledby="pills-nut1-tab"><img src="/images/nut1.png" class="w-100">
-                        <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
-                            <p>
-                                Having diabetes is a nightmare which requires proper
-                                dietary attention. If neglected, it could lead to grave
-                                consequences. A medical nutrition therapy would help
-                                you manage and control your diabetes, and keep your
-                                diet in check while making sure that you’re getting the
-                                necessary nutrition that your body needs.
-
-                            </p>
-
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab"><img src="/images/nut2.png" class="w-100">
+                
+                    <div class="tab-pane fade show active" id="pills-nut2" role="tabpanel"
+                     aria-labelledby="pills-nut2-tab"><img src="/images/nut2.png" class="w-100">
 
                         <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                             <p>Different medical conditions require different
@@ -294,6 +292,35 @@ include 'share.php';
                         </div>
 
                     </div>
+                    <div class="tab-pane fade" id="pills-nut6" role="tabpanel"
+                     aria-labelledby="pills-nut6-tab"><img src="/images/nut6.png" class="w-100">
+                        <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
+                            <p>
+                         
+    
+    While breastfeeding, the types of food you eat affect both you and your baby.  Motherhood is caring for your baby, and yourself and I can provide you with the perfect plan for you so you can stay healthy, and be able to keep your baby healthy. 
+    
+    
+
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="tab-pane fade" id="pills-nut7" role="tabpanel"
+                     aria-labelledby="pills-nut7-tab"><img src="/images/nut7.png" class="w-100">
+                        <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
+                            <p>
+                            It is hard to find the perfect plan for your body to stay healthy. My strategy is to create a specific plan for you. Each body is different, and it needs a different strategy to care for it. Don’t let random meal plans harm your body. I can help you make the perfect plan for you to keep you healthy and fit.
+
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
 
                 </div>
             </div>

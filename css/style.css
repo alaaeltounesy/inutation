@@ -384,7 +384,7 @@ body .sec4 .nav li.nav-item{
 }
 
 
-.sec4 .nav-pills .nav-link.active, .sec4 .nav-pills .show>.nav-link {
+.sec4 .nav-link.active, .sec4 .show>.nav-link {
     background:none;
     position: relative;
 z-index: 101;
@@ -411,7 +411,7 @@ z-index: 101;
     display: block;
 }
 .sec4  img{
-    height: 550px;
+ height: 660px;
 }
 }
 /*sec5*/

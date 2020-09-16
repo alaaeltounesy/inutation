@@ -216,14 +216,13 @@
                         <div class="post mb-5">
                             <a href="article2" target="_blank" class="black">
                                 <h4 class=" bold-m mb-5">
-                                   post2
+                                Nutrition and Immunity
 
                                 </h4>
-                                <img src="images/post1.jpg" class="w-100 mb-5">
+                                <img src="images/post2.jpg" class="w-100 mb-5">
 
                                 <h5 class="  mb-5 italic-light-m">
-                                    Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child.
-                                </h5>
+                                Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? Even though, there is no real scientific evidence that our life choices directly impact the strength of our immune system, observations have been made that some lifestyles can weaken or strengthen it. A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.   </h5>
                             </a>
                             <!--social post moble-->
                             <div class="row mb-5 d-xl-none d-flex mx-0 text-left" style="border-bottom:1px solid #000;">
@@ -337,13 +336,13 @@
                         <div class="post mb-5">
                             <a href="article3" target="_blank" class="black">
                                 <h4 class=" bold-m mb-5">
-                                   post3
+                                How Food Can Affect Your Mood
+
                                 </h4>
-                                <img src="images/post1.jpg" class="w-100 mb-5">
+                                <img src="images/post3.jpg" class="w-100 mb-5">
 
                                 <h5 class="  mb-5 italic-light-m">
-                                    Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child.
-                                </h5>
+                                Researchers lately have noticed a connection between what we eat and how we feel. There is still no direct scientific discovery yet, but the clues cannot be ignored. Since our brains’ functionality is dependent on burning of food, researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically and physiologically. Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.  </h5>
                             </a>
                             <!--social post moble-->
                             <div class="row mb-5 d-xl-none d-flex mx-0 text-left" style="border-bottom:1px solid #000;">
@@ -411,15 +410,16 @@
 
                     <a class="black mb-5" target="_blank" href="article2">
                         <h5 class="  mb-3 italic-light-m">
-                   post2
+                        Nutrition and Immunity  
                         </h5>
-                        <img src="/images/post4.png" class="w-100 mb-5">
+                        <img src="/images/post2.jpg" class="w-100 mb-5">
                     </a>
                     <a class="black mb-5" target="_blank" href="article3">
                         <h5 class="  mb-3 italic-light-m">
-                     post3
+                        How Food Can Affect Your Mood
+
                         </h5>
-                        <img src="/images/post5.png" class="w-100 mb-5">
+                        <img src="/images/post3.jpg" class="w-100 mb-5">
                     </a>
 
                 </div>

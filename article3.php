@@ -4,7 +4,7 @@
 <head>
     <title>
 
-        Inutrition4u3 | Blog
+        Inutrition4u |   How Food Can Affect Your Mood
     </title>
 
 
@@ -60,65 +60,110 @@
                         <div class="post mb-5 ">
 
                             <h4 class=" bold-m mb-5">
-                              post3
+                                How Food Can Affect Your Mood
 
 
                             </h4>
-                            <img src="/images/post1-2.jpg" class="w-100 mb-5">
+                            <img src="/images/post3.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
-                                Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child. Here are some tips and answers about what the dietary system you need during pregnancy:
-                                <br><br><span class="italic-SemiBold">
-                                    Eating for Two:<br> </span>
-                                <br>
-                                Eating for two is a myth. You do not need to double your intake, but you need a new healthy diet. This diet needs some changes to adapt to your new status, including a higher intake of calories, while minimizing trans fats that are found in junk food. Your appetite is your guide, but try to keep your diet limited to 3 meals and 3 snacks a day.
-                                <br><br><span class="italic-SemiBold">
-                                    A Healthy Diet:<br> </span>
-                                <br>
-                                The healthy diet you need is similar to an average healthy diet: An array of vegetables and fruits, vitamins, protein, fibers, calcium, and healthy fats and carbs. What you need is the essential intakes for a development of a healthy baby to ensure suitable nutrition. Here are some of these essentials to have a healthy pregnancy:
-                                <br><br><span class="italic-SemiBold">
-                                    Dairy Products:<br> </span>
-                                <br>
-                                Dairy products contain the calcium needed that substitute the loss of calcium in the bones. The development of a fetus consumes a lot of the calcium in your body, so you need to compensate for that. Dairy products also contain protein and iodine.
-                                <img src="/images/post1-2.jpg" class="w-100 my-lg-5 my-3">
-                                <br><br><span class="italic-SemiBold">
-                                    Proteins:<br> </span>
-                                <br>
-                                You need different sources of protein instead of the standard source of meat, dark or white, because as much as meat is the number one protein source, it can also harm you if you are not careful. Proteins can be found in legumes, eggs, broccoli, and dark leafy greens. You can also pair proteins with vitamin C sources for the best absorption result.
-                                <br><br><span class="italic-SemiBold">
-                                    Healthy Fats:<br> </span>
-                                <br>
-                                Healthy saturated fats are needed in a balanced diet, and more needed in a diet for pregnancy. They contain the elements that can help in developing of the fetus. They can be found in eggs, avocados, and some dairy products. Avoid pairing fats with carbohydrates.
-                                <br><br><span class="italic-SemiBold">
-                                    Varity of Vitamins:</span>
-                                <br><br>
-                                To stay healthy and develop a healthy baby, you need to consume different types of vitamins. Broccoli and dark leafy greens contain Vitamins A, C, and K. Bell peppers are rich in vitamin C, like sweet potatoes are rich in Vitamin A.
-                                <br><br><span class="italic-SemiBold">
-                                    Iron:<br> </span>
-                                <br>
-                                Iron is essential to stay healthy, as the body needs iron to carry out essential body tasks. Iron can be found in legumes, and dark leafy greens.
-                                <br><br><span class="italic-SemiBold">
-                                    Healthy Carbs:<br> </span>
-                                <br>
-                                Just like fats, you can have to be careful with the source of carbs. You need healthy carbs, as carbs are a good source of calories, and you can find them in berries.
-                                <br>
-                                <br><br><span class="italic-SemiBold">
-                                    Stay Hydrated :</span>
 
-                                <img src="/images/post1-3.jpg" class="w-90 my-lg-5 my-3">
-                                Drinking water is what keeps you energetic, as it increased the blood flow. Blood volume increases by 45 percent while being pregnant, so you need the water to help the flow of the increased blood volume. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection.
-                                <br> <br>
-                                <b>
-                                    Have a healthy pregnancy to have a healthy baby!
+                                Researchers lately have noticed a connection between what we eat and how we feel. There is still no direct scientific discovery yet, but the clues cannot be ignored. Since our brains’ functionality is dependent on burning of food, researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically and physiologically.
+                                Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.
+
+
+
+                                <br><br><span class="italic-SemiBold">
+                                    So how can we regulate our mood through food?
+                                    <br> </span> <br>
+                                <img src="/images/regulate.jpg" class="w-100 mt-lg-5   my-3">
+
+                                There is no indication whatsoever that certain food can treat mental illness, depression for example, but there are researches that link food with our general daily mood. You need to be mindful of what you put in your body. A balanced diet can help to feel better. Here are tips to have a healthy mind:
+
+                                <img src="/images/sugar.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Cut down your intake of refined sugar
+
+
+                                    <br> </span> <br>
+
+                                Diets that are high in refined sugar worsen your bodies regulation of insulin,
+                                and promote inflammation which can lead to stress. Links have been made between
+                                refined sugar and impaired brain’s function, and the worsening of symptoms of mood disorders.
+                                Refined sugars are found in white flour, corn syrup, white sugar, brown sugar, fructose,
+                                and artificial sweeteners.
+
+
+
+                                <img src="/images/carbs.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+
+                                    Don’t eliminate carbs, but choose the healthy ones
+
+
+                                    <br> </span> <br>
+
+                                Don’t overtake processed carbs, like white flour, but choose the carbs found in its natural states like fruits, dairy products, honey, oats, and some nuts and seeds.
+
+
+
+                                <img src="/images/Fish.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Fatty Fish
+                                    <br> </span> <br>
+
+
+                                Fish are rich in Omega 3 fatty acids. Omega-3s contribute to the fluidity of your brain’s cell membrane and appear to play key roles in brain development and cell signaling. It makes you think clearer, and focus easily.
+
+
+
+
+                                <img src="/images/breakfast.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+
+
+                                    A balanced breakfast
+                                    <br> </span> <br>
+
+                                Breakfast is the wakeup call for your brain, and whatever you eat in the morning can affect the rest of
+                                your day. Rely on eggs, dairies, and fruits for a healthy breakfast.
+
+                                <img src="/images/VitaminD.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Vitamin D
+                                    <br> </span> <br>
+
+
+
+
+                                Vitamin D deficiency can lead to fatigue, sleepiness, and muscle weakness, which can lead to stress and a bad mood. Maintain a regular intake of Vitamin D which can be found in yogurt, and a healthy dose of sunlight.
+
+                                <img src="/images/Nuts.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+
+                                    Nuts and Seeds
+
+                                    <br> </span> <br>
+
+
+                                Nuts are high in healthy fats, fiber, protein, and vitamins. Almond, for example, is rich in vitamin E, while sunflower seeds are rich in magnesium, phosphorus, and vitamins B and E. This gives you a boost of energy, and clear focused brain.
+
+
+                                <img src="/images/caffeine.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+
+                                    Don’t overuse caffeine!
+                                    <br> </span> <br>
+
+
+
+                                Coffee is the most popular drink in the world, and for a good reason. Coffee gives you the needed energy you may lack from inadequate sleep, as well as it has shown that it can boost your mood. But too much coffee can backfire as it can lead to insomnia which causes stress and a general bad mood.
+
+                                <br>
+                                <b></br>
+                                    Eat Healthy For A Better Mood!
+
                                 </b>
-
-
-
-
-
-
-
-
                             </h5>
 
                             <!--social post like share-->
@@ -129,7 +174,7 @@
                                     <button type="button" class="btn-like black" data-id="3">
                                         <svg class=" svgheart" xmlns="http://www.w3.org/2000/svg" width="11.332" height="10.082" viewBox="0 0 11.332 10.082">
                                             <path id="heart" d="M10.433.987A3.047,3.047,0,0,0,8.167,0,2.851,2.851,0,0,0,6.386.615a3.643,3.643,0,0,0-.72.752,3.641,3.641,0,0,0-.72-.752A2.85,2.85,0,0,0,3.166,0,3.047,3.047,0,0,0,.9.987,3.542,3.542,0,0,0,0,3.406,4.218,4.218,0,0,0,1.124,6.166,23.966,23.966,0,0,0,3.938,8.807c.39.332.832.709,1.291,1.11a.665.665,0,0,0,.876,0c.459-.4.9-.778,1.291-1.11a23.953,23.953,0,0,0,2.813-2.641,4.217,4.217,0,0,0,1.124-2.761,3.542,3.542,0,0,0-.9-2.419Zm0,0" transform="translate(-0.001)" />
-                                        </svg> <span class="clicks mr-1">5</span> Likes</button>
+                                        </svg> <span class="clicks mr-1">5</span> <br> Likes</button>
 
                                 </div>
 
@@ -175,23 +220,23 @@
                 <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                     <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                     <a class="black mb-5" href="article">
+                    <a class="black mb-5" href="article">
                         <h5 class="  mb-3 italic-light-m">
-                        Nutrition During Your Pregnancy
+                            Nutrition During Your Pregnancy
 
                         </h5>
                         <img src="/images/post1.jpg" class="w-100 mb-5">
-                        </a>
-                       
+                    </a>
 
-                            <a class="black mb-5" href="article2">
-                                
-                                <h5 class="  mb-3 italic-light-m">
-                                   post2
-                                </h5>
-                                <img src="/images/post5.png" class="w-100 mb-5">
-                            </a>
-                           
+
+                    <a class="black mb-5" href="article2">
+
+                        <h5 class="  mb-3 italic-light-m">
+                            Nutrition and Immunity
+                        </h5>
+                        <img src="/images/post2.jpg" class="w-100 mb-5">
+                    </a>
+
                 </div>
 
 

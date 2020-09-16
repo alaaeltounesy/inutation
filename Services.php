@@ -57,15 +57,10 @@ include 'share.php';
 
                 </button>
 
-                <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
-                    <a class="nav-link" href="#Prenatal-Pregnancy">Prenatal, Pregnancy &
-                        Lactation
-
-                    </a>
-                </button>
+              
 
                 <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
-                    <a class="nav-link" href="#Health-Wellness"> Health & Wellness For All Ages</a>
+                    <a class="nav-link" href="#Health-Wellness"> Health & Wellness</a>
 
                 </button>
                 <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
@@ -73,7 +68,12 @@ include 'share.php';
 
                 </button>
 
+                <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
+                    <a class="nav-link" href="#Prenatal-Pregnancy">Prenatal, Pregnancy &
+                        Lactation
 
+                    </a>
+                </button>
             </div>
 
         </div>
@@ -144,14 +144,14 @@ include 'share.php';
 <section class="services my-xl-5 mb-5  p-md-0 px-2">
 
     <h1 class="my-5  d-lg-block d-none SemiBold w-85 text-center ">
-        Learn more about how I could help you find a solution
-        to your health issues and help you achieve happiness!
+    Learn more about how I could help you find a solution
+     to your health issues and help you discover a healthier you!
         <br>
         <Br>
     </h1>
     <h3 class="my-5 d-lg-none d-block SemiBold w-85 text-center ">
-        Learn more about how I could help you find a solution
-        to your health issues and help you achieve happiness!
+    Learn more about how I could help
+     you find a solution to your health issues and help you discover a healthier you!
 
     </h3>
 
@@ -311,58 +311,6 @@ include 'share.php';
 
 
 
-    <div class="cardser4 cardser w-85 " id="Prenatal-Pregnancy">
-        <div class="container-fluid py-md-5 py-5 fade-s mt-5 s4">
-            <div class="row py-lg-5 text-center justify-content-center">
-
-
-                <div class="col-lg-10 col-12 p-lg-0">
-                    <h2 class="mb-3 SemiBold">
-                        Prenatal, Pregnancy & Lactation
-                    </h2>
-                    <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-                        Your and your baby’s health are precious and in need of frequent monitoring. <br>Don’t
-                        let the wrong types of food endanger your life, or harm your baby.
-
-                    </p>
-                </div>
-
-                <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
-                    <button class="btn  btn-ser w-100"> START TODAY</button>
-                </a>
-                <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
-
-
-            </div>
-        </div>
-        <div class="container-fluid text-light s-h   py-md-5 py-5 mt-5 s4-h">
-            <div class="row py-lg-5 text-center justify-content-center">
-
-
-                <div class="col-lg-10 col-12 p-lg-0">
-                    <h2 class="mb-3 SemiBold">
-                        Prenatal, Pregnancy & Lactation Meal Plan
-                    </h2>
-                    <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
-
-                        Every mother has the right to secure the future of her babies. . Prenatal, pregnancy and lactation
-                        nutritional plans are crucial for the health of your children. Reading a book or two won’t help you figure
-                        out the right nutrients needed especially for your health, and trying a random diet would endanger the
-                        health of your children, so follow the advice of a certified nutritionist and a lactation consultant and find
-                        the healthiest road for your family
-                    </p>
-                </div>
-
-                <a href="#" class=" col-xl-3 col-8">
-                    <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                </a>
-
-
-            </div>
-        </div>
-
-    </div>
-
 
     <div class="cardser5 cardser  w-85" id="Health-Wellness">
         <div class="container-fluid   py-md-5 py-5  fade-s   mt-5 s5">
@@ -370,14 +318,12 @@ include 'share.php';
 
                 <div class="col-lg-10 col-12 p-lg-0">
                     <h2 class="mb-3 SemiBold">
-                        Health & Wellness For All Ages
+                        Health & Wellness
 
                     </h2>
                     <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
 
-                        Through customized coaching, food psychology, clinical nutrition, science-based
-                        testing and a mind body approach to health and healing, work with me privately and
-                        we will craft your personal recipe to transform your health and your life
+                    Through individualized coaching, food psychology, clinical nutrition, science-based testing and a mind body approach to health and healing, work with me privately and we will craft your personal recipe to transform your health and your life.
                     </p>
                 </div>
 
@@ -453,6 +399,58 @@ include 'share.php';
                         Googling it. You might be able to find a generalized one-size-fits-all diet plan, and
                         follow it for weeks only to find out that it doesn’t really work for you. Get your own
                         custom-made Meal Plan and enjoy a healthy life full of energy and fun
+                    </p>
+                </div>
+
+                <a href="#" class=" col-xl-3 col-8">
+                    <button class="btn  btn-ser-h w-100"> START TODAY</button>
+                </a>
+
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="cardser4 cardser w-85 " id="Prenatal-Pregnancy">
+        <div class="container-fluid py-md-5 py-5 fade-s mt-5 s4">
+            <div class="row py-lg-5 text-center justify-content-center">
+
+
+                <div class="col-lg-10 col-12 p-lg-0">
+                    <h2 class="mb-3 SemiBold">
+                        Prenatal, Pregnancy & Lactation
+                    </h2>
+                    <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
+                        Your and your baby’s health are precious and in need of frequent monitoring. <br>Don’t
+                        let the wrong types of food endanger your life, or harm your baby.
+
+                    </p>
+                </div>
+
+                <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
+                    <button class="btn  btn-ser w-100"> START TODAY</button>
+                </a>
+                <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+
+
+            </div>
+        </div>
+        <div class="container-fluid text-light s-h   py-md-5 py-5 mt-5 s4-h">
+            <div class="row py-lg-5 text-center justify-content-center">
+
+
+                <div class="col-lg-10 col-12 p-lg-0">
+                    <h2 class="mb-3 SemiBold">
+                        Prenatal, Pregnancy & Lactation Meal Plan
+                    </h2>
+                    <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
+
+                        Every mother has the right to secure the future of her babies. . Prenatal, pregnancy and lactation
+                        nutritional plans are crucial for the health of your children. Reading a book or two won’t help you figure
+                        out the right nutrients needed especially for your health, and trying a random diet would endanger the
+                        health of your children, so follow the advice of a certified nutritionist and a lactation consultant and find
+                        the healthiest road for your family
                     </p>
                 </div>
 

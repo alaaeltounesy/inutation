@@ -4,7 +4,8 @@
 <head>
     <title>
 
-        Inutrition4u2 | Blog
+        Inutrition4u |    Nutrition and Immunity
+
     </title>
 
 
@@ -60,66 +61,112 @@
                         <div class="post mb-5 ">
 
                             <h4 class=" bold-m mb-5">
-                               post2
+                                Nutrition and Immunity
 
 
                             </h4>
-                            <img src="/images/post1.jpg" class="w-100 mb-5">
+                            <img src="/images/post2.jpg" class="w-100 mb-5">
 
                             <h5 class="  mb-5 italic-light-m">
-                                Staying healthy during pregnancy is essential for your and your baby’s health. You need sufficient diet that keeps you healthy and helps in your baby’s development. Your diet during pregnancy is going to have a lasting effect on your baby’s life later on, as studies have shown that the diet that the mother uses during pregnancy, affects the dietary system of her child. Here are some tips and answers about what the dietary system you need during pregnancy:
-                                <br><br><span class="italic-SemiBold">
-                                    Eating for Two:<br> </span>
-                                <br>
-                                Eating for two is a myth. You do not need to double your intake, but you need a new healthy diet. This diet needs some changes to adapt to your new status, including a higher intake of calories, while minimizing trans fats that are found in junk food. Your appetite is your guide, but try to keep your diet limited to 3 meals and 3 snacks a day.
-                                <br><br><span class="italic-SemiBold">
-                                    A Healthy Diet:<br> </span>
-                                <br>
-                                The healthy diet you need is similar to an average healthy diet: An array of vegetables and fruits, vitamins, protein, fibers, calcium, and healthy fats and carbs. What you need is the essential intakes for a development of a healthy baby to ensure suitable nutrition. Here are some of these essentials to have a healthy pregnancy:
-                                <br><br><span class="italic-SemiBold">
-                                    Dairy Products:<br> </span>
-                                <br>
-                                Dairy products contain the calcium needed that substitute the loss of calcium in the bones. The development of a fetus consumes a lot of the calcium in your body, so you need to compensate for that. Dairy products also contain protein and iodine.
-                                <img src="/images/post1-2.jpg" class="w-100 my-lg-5 my-3">
-                                <br><br><span class="italic-SemiBold">
-                                    Proteins:<br> </span>
-                                <br>
-                                You need different sources of protein instead of the standard source of meat, dark or white, because as much as meat is the number one protein source, it can also harm you if you are not careful. Proteins can be found in legumes, eggs, broccoli, and dark leafy greens. You can also pair proteins with vitamin C sources for the best absorption result.
-                                <br><br><span class="italic-SemiBold">
-                                    Healthy Fats:<br> </span>
-                                <br>
-                                Healthy saturated fats are needed in a balanced diet, and more needed in a diet for pregnancy. They contain the elements that can help in developing of the fetus. They can be found in eggs, avocados, and some dairy products. Avoid pairing fats with carbohydrates.
-                                <br><br><span class="italic-SemiBold">
-                                    Varity of Vitamins:</span>
-                                <br><br>
-                                To stay healthy and develop a healthy baby, you need to consume different types of vitamins. Broccoli and dark leafy greens contain Vitamins A, C, and K. Bell peppers are rich in vitamin C, like sweet potatoes are rich in Vitamin A.
-                                <br><br><span class="italic-SemiBold">
-                                    Iron:<br> </span>
-                                <br>
-                                Iron is essential to stay healthy, as the body needs iron to carry out essential body tasks. Iron can be found in legumes, and dark leafy greens.
-                                <br><br><span class="italic-SemiBold">
-                                    Healthy Carbs:<br> </span>
-                                <br>
-                                Just like fats, you can have to be careful with the source of carbs. You need healthy carbs, as carbs are a good source of calories, and you can find them in berries.
-                                <br>
-                                <br><br><span class="italic-SemiBold">
-                                    Stay Hydrated :</span>
 
-                                <img src="/images/post1-3.jpg" class="w-90 my-lg-5 my-3">
-                                Drinking water is what keeps you energetic, as it increased the blood flow. Blood volume increases by 45 percent while being pregnant, so you need the water to help the flow of the increased blood volume. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection.
+                                Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? Even though, there is no real scientific evidence that our life choices directly impact the strength of our immune system, observations have been made that some lifestyles can weaken or strengthen it. A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
+
+                                <br><span class="italic-SemiBold">
+                                <br>      How can we use our diet to boost immunity?
+                                    <br> </span>
+                                <br>
+
+                                By maintaining a healthy lifestyle, you are giving your body the
+                                best chance to fight off diseases. One of the key factors of
+                                such lifestyles is maintaining a healthy balanced diet with the focus on the intakes that can help fight of diseases and infections. Here are the elements you should add to your diet:
+
+                                <img src="/images/Vitamin.jpg" class="w-100 mt-lg-5   my-3">
+
+                                <br><span class="italic-SemiBold">
+                                    Vitamin C
+                                    <br> </span>
+
+
+                                Vitamin C is probably the most popular to boost immunity.
+                                It can be found in citrus fruits like oranges, tangerines,
+
+                                grapefruit, and lemons. Red bell peppers are also rich in vitamin C. Vitamin C also helps you in having healthy skin.
+
+                                <img src="/images/Broccoli.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Broccoli
+                                    <br> </span>
+
+
+                                Leafy greens are paramount in any healthy diet, especially broccoli. Broccoli is rich in vitamins like vitamins A, C, and E. It is also rich in minerals, and antioxidants. It is best not to let it be overcooked, as it maintains its riches while being raw.
+
+
+                                <img src="/images/Garlic.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Garlic
+                                    <br> </span>
+
+
+
+                                No kitchen is ever free of garlic, and besides the additional taste it gives to meals, it has immense healthy benefits. It slows down the hardening of arteries, as well as fight the infections that penetrated your first line of defense.
+
+
+                                <img src="/images/Ginger.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                Ginger <br> </span>
+              
+Ginger reduces sore throat, and inflammatory illnesses. As well as it helps with dizziness and feeling of nausea. 
+                                <img src="/images/Yogurt.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Yogurt
+                                    <br> </span>
+
+
+                                Choose the yogurt with live and active cultures like Greek Yogurt. These kinds of yogurts are rich in Vitamin D. Vitamin D deficiency leads to fatigue, sleepiness, muscle weakness, and that leads to a weak immunity.
+
+
+
+
+                                <img src="/images/Almond.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+                                    Almond
+                                    <br> </span>
+
+
+
+                                Almonds are rich in vitamin E. Vitamin E is best to be absorbed with healthy fats which are found in almonds.
+
+
+                                <img src="/images/Sunflower.jpg" class="w-100 mt-lg-5   my-3">
+                                ,br<span class="italic-SemiBold">
+                                    Sunflower Seeds
+
+                                    <br> </span>
+
+                                Sunflower seeds have magnesium, phosphorus, and vitamins B and E. It boosts your immunity by supplying your body with additional healthy elements.
+
+                                <img src="/images/Hydrated.jpg" class="w-100 mt-lg-5   my-3">
+                                <br><span class="italic-SemiBold">
+
+                                    Stay Hydrated
+                                    <br> </span>
+
+
+
+                                Drinking water is what keeps you energetic, as it increased the blood flow. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection, as it keeps a harmonic bodily system.
+
                                 <br> <br>
                                 <b>
-                                    Have a healthy pregnancy to have a healthy baby!
+
+
+                                    Eat Healthy To Stay Healthy!
+
+
                                 </b>
 
 
-
-
-
-
-
-
                             </h5>
+
 
                             <!--social post like share-->
                             <div class="row mb-5 pb-3  mx-0 text-left" style="border-bottom:1px solid #000;">
@@ -175,22 +222,22 @@
                 <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                     <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                     <a class="black mb-5" href="article">
+                    <a class="black mb-5" href="article">
                         <h5 class="  mb-3 italic-light-m">
-                        Nutrition During Your Pregnancy
+                            Nutrition During Your Pregnancy
 
                         </h5>
                         <img src="/images/post1.jpg" class="w-100 mb-5">
-                        </a>
-                     
-                            <a class="black mb-5" href="article3">
-                                
-                                <h5 class="  mb-3 italic-light-m">
-                                   post3
-                                </h5>
-                                <img src="/images/post5.png" class="w-100 mb-5">
-                            </a>
-                          
+                    </a>
+
+                    <a class="black mb-5" href="article3">
+
+                        <h5 class="  mb-3 italic-light-m">
+                        How Food Can Affect Your Mood
+                        </h5>
+                        <img src="/images/post3.jpg" class="w-100 mb-5">
+                    </a>
+
                 </div>
 
 
