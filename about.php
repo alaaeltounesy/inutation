@@ -2,29 +2,29 @@
 <html>
 
 <head>
-  <title>
-  Inutrition4u | About
-  </title>
+    <title>
+        Inutrition4u | About
+    </title>
 
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-  <meta name="title" content="  Inutrition4u | About">
+    <meta name="title" content="  Inutrition4u | About">
 
-  <meta name="description" content="">
+    <meta name="description" content="">
 
-  <meta property="og:title" content="  Inutrition4u | About">
-  <meta property="og:description" content="">
-  <meta property="og:image" content="">
-  <meta property="og:url" content="">
-  <meta property="og: type" content="">
+    <meta property="og:title" content="  Inutrition4u | About">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og: type" content="">
 
-  <meta name="twitter:card" content="">
- <meta name="twitter:image:alt" content="">
+    <meta name="twitter:card" content="">
+    <meta name="twitter:image:alt" content="">
 
-  <meta name="theme-color" content="">
+    <meta name="theme-color" content="">
 
 
 </head>
@@ -55,13 +55,13 @@ include 'share.php';
                     </h1>
                     <h3 class="mb-5 italic-med"> founder and CEO of inutrition4u </h3>
                     <p class="my-lg-5 my-3 italic-light-m " style="font-size:18px;">
-                    Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL, and that makes her your best chance to take your health to a whole new level, and improve your overall lifestyle.
-<br> <br>
-Additionally, being a certified lactation consultant from the Academy of Lactation Policy and Practice makes her the perfect nutritionist for you and your family’s health.  
-<br> <br>
-Shadia is a registered/licensed dietitian and certified lactation consultant practicing in Palm Beach County, Florida. As a dietitian and nutritionist, Shadia provides counseling to her clients and helps them pave  a path to wholesome eating and a healthy lifestyle. 
-<br> <br>
-Shadia graduated from Florida International University with a bachelor’s degree in Dietetics & Nutrition in 2011 and a master’s degree in Dietetics & Nutrition in 2020. She has also earned a Pediatric Nutrition Certificate. After completing a dietetic internship program in 2012, Shadia became a registered dietitian/nutritionist and started working at the Health Department. In 2015, Shadia became the supervisor of Lantana clinic WIC, (Women, Infants, and Children). In 2017, Shadia achieved the Adult Weight Management Certificate. In 2018, she became a Certified Lactation Consultant with the Academy of Lactation Policy and Practice. From 2018 to 2019, she supervised both Lantana and Delray Beach clinics. Currently, Shadia is the site supervisor of Delray Beach clinic WIC in Palm Beach County, FL. Shadia has been recognized every year by Pasco County in appreciation for precepting dietetic student interns from 2015 to present. 
+                        Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL, and that makes her your best chance to take your health to a whole new level, and improve your overall lifestyle.
+                        <br> <br>
+                        Additionally, being a certified lactation consultant from the Academy of Lactation Policy and Practice makes her the perfect nutritionist for you and your family’s health.
+                        <br> <br>
+                        Shadia is a registered/licensed dietitian and certified lactation consultant practicing in Palm Beach County, Florida. As a dietitian and nutritionist, Shadia provides counseling to her clients and helps them pave a path to wholesome eating and a healthy lifestyle.
+                        <br> <br>
+                        Shadia graduated from Florida International University with a bachelor’s degree in Dietetics & Nutrition in 2011 and a master’s degree in Dietetics & Nutrition in 2020. She has also earned a Pediatric Nutrition Certificate. After completing a dietetic internship program in 2012, Shadia became a registered dietitian/nutritionist and started working at the Health Department. In 2015, Shadia became the supervisor of Lantana clinic WIC, (Women, Infants, and Children). In 2017, Shadia achieved the Adult Weight Management Certificate. In 2018, she became a Certified Lactation Consultant with the Academy of Lactation Policy and Practice. From 2018 to 2019, she supervised both Lantana and Delray Beach clinics. Currently, Shadia is the site supervisor of Delray Beach clinic WIC in Palm Beach County, FL. Shadia has been recognized every year by Pasco County in appreciation for precepting dietetic student interns from 2015 to present.
 
                     </p>
 
@@ -101,7 +101,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                     </h4>
 
 
-                    <p class=" italic-light-m col-12 "style="font-size:18px">
+                    <p class=" italic-light-m col-12 " style="font-size:18px">
                         The main reason I chose to become a nutrition expert was my son Ali. Ali was
                         born with a rare metabolic disorder that doctors had little knowledge about. I
                         have always been willing to do anything to ensure his wellbeing. Since he was
@@ -133,7 +133,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                         “Let <span class="bold">food</span> be thy medicine, and let medicine be thy <span class="bold">food</span>.” The Greek
                         physician Hippocrates , a famous<span class="bold"> philosopher. </span> .<br><br>
                         I enjoy making a positive impact on people’s lives. As a healthcare
-                        professional and wellness advocate, I find my field is rewarding on a daily
+                        professional and wellness advocate, I find that my field is rewarding on a daily
                         basis, not only working with clients, but also speaking with friends and family
                         about nutrition.
                     </p>
@@ -794,7 +794,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
 
             </div>
             <div class="col-lg-3 col-8 text-center mx-auto">
-                <a href="services" >
+                <a href="services">
                     <button class="btn lrn-about my-4 w-100 ">
                         START TODAY
                     </button>

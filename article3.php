@@ -4,7 +4,7 @@
 <head>
     <title>
 
-        Inutrition4u |   How Food Can Affect Your Mood
+        Inutrition4u | How Food Can Affect Your Mood
     </title>
 
 

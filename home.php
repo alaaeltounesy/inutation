@@ -103,7 +103,8 @@
                         MY <SPAN class="SemiBold"> MISSION</SPAN>
                     </h1>
                     <h5 class="  mb-5 italic-light-m">
-                        I have specialized in several nutrition areas including Pediatric Nutrition, Pediatric and Adult weight management, and I became a Certified Lactation consultant. I took it upon myself that I want to help every mother and child out there to live a healthy life full of energy and protect new mothers and their children. I have always gone above and beyond in helping my patients find their peace of mind. As a registered and licensed Dietitian/Nutritionist I provide sufficiently detailed nutrition advice that is relevant to a patient's health goals, useful for the patient, and that results in in measurable changes. These changes are the core of career in the United States.
+                        I have specialized in several nutrition areas including Pediatric Nutrition, Pediatric and Adult weight management, and I became a Certified Lactation consultant. I took it upon myself that I want to help every mother and child out there to live a healthy life full of energy and protect new mothers and their children. I have always gone above and beyond in helping my patients find their peace of mind. As a registered and licensed Dietitian/Nutritionist I provide sufficiently detailed nutrition advice that is relevant to a patient's health goals, useful for the patient, and that results in in measurable changes. These changes are the core of my
+                        career in the United States.
                     </h5>
                     <br>
                     <br>
@@ -137,7 +138,7 @@
                         “When in doubt, use nutrition first.”
                     </h1>
                     <h3 class="mb-5">
-                    Living a healthy secure life without health concerns is the dream of all individual, and, for that, it is my duty as a nutritionist to help you find your comfort and happiness. 
+                        Living a healthy secure life without health concerns is the dream of all individuals, and, for that, it is my duty as a nutritionist to help you find your comfort and happiness.
                     </h3>
 
 
@@ -306,7 +307,7 @@
             <div class="row text-center justify-content-center">
                 <div class="col-xl-10">
                     <h1 class="mb-5 SemiBold">
-                    It Is My Specialty  
+                        It Is My Specialty
 
                     </h1>
                     <h3 class="mb-5 mx-xl-3 ">

@@ -4,7 +4,7 @@
 <head>
     <title>
 
-        Inutrition4u |    Nutrition During Your Pregnancy
+        Inutrition4u | Nutrition During Your Pregnancy
 
     </title>
 
@@ -176,22 +176,22 @@
                 <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                     <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                     <a class="black mb-5" href="article2">
+                    <a class="black mb-5" href="article2">
                         <h5 class="  mb-3 italic-light-m">
 
-Nutrition and Immunity
+                            Nutrition and Immunity
                         </h5>
                         <img src="/images/post2.jpg" class="w-100 mb-5">
-                        </a>
-                       
-                            <a class="black mb-5" href="article3">
-                                
-                                <h5 class="  mb-3 italic-light-m">
-                                How Food Can Affect Your Mood
-                                </h5>
-                                <img src="/images/post3.jpg" class="w-100 mb-5">
-                            </a>
-                         
+                    </a>
+
+                    <a class="black mb-5" href="article3">
+
+                        <h5 class="  mb-3 italic-light-m">
+                            How Food Can Affect Your Mood
+                        </h5>
+                        <img src="/images/post3.jpg" class="w-100 mb-5">
+                    </a>
+
                 </div>
 
 

@@ -27,11 +27,12 @@
               </h3>
               <button type="submit" class="btn submit-form-btn col-6 lrn-btn">Subscribe</button>
             </div>
-            
 
-          </div><div class="alert text-capitalize  alert-success my-lg-5 mt-4  mx-auto px-5 col-lg-6 col-md-8 mx-auto text-center" role="alert">
-          Thank You For Subscribing
-            </div>
+
+          </div>
+          <div class="alert text-capitalize  alert-success my-lg-5 mt-4  mx-auto px-5 col-lg-6 col-md-8 mx-auto text-center" role="alert">
+            Thank You For Subscribing
+          </div>
         </form>
       </div>
     </div>

@@ -4,7 +4,7 @@
 <head>
     <title>
 
-        Inutrition4u |    Nutrition and Immunity
+        Inutrition4u | Nutrition and Immunity
 
     </title>
 
@@ -72,7 +72,7 @@
                                 Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? Even though, there is no real scientific evidence that our life choices directly impact the strength of our immune system, observations have been made that some lifestyles can weaken or strengthen it. A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
 
                                 <br><span class="italic-SemiBold">
-                                <br>      How can we use our diet to boost immunity?
+                                    <br> How can we use our diet to boost immunity?
                                     <br> </span>
                                 <br>
 
@@ -113,9 +113,9 @@
 
                                 <img src="/images/Ginger.jpg" class="w-100 mt-lg-5   my-3">
                                 <br><span class="italic-SemiBold">
-                                Ginger <br> </span>
-              
-Ginger reduces sore throat, and inflammatory illnesses. As well as it helps with dizziness and feeling of nausea. 
+                                    Ginger <br> </span>
+
+                                Ginger reduces sore throat, and inflammatory illnesses. As well as it helps with dizziness and feeling of nausea.
                                 <img src="/images/Yogurt.jpg" class="w-100 mt-lg-5   my-3">
                                 <br><span class="italic-SemiBold">
                                     Yogurt
@@ -233,7 +233,7 @@ Ginger reduces sore throat, and inflammatory illnesses. As well as it helps with
                     <a class="black mb-5" href="article3">
 
                         <h5 class="  mb-3 italic-light-m">
-                        How Food Can Affect Your Mood
+                            How Food Can Affect Your Mood
                         </h5>
                         <img src="/images/post3.jpg" class="w-100 mb-5">
                     </a>
