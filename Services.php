@@ -95,18 +95,7 @@ include 'share.php';
             <div class="col-xl-6">
 
                 <h5 class="my-xl-5 italic-med">
-                    As a Registered Dietitian/Nutritionist,
-                    Shadia will work as part of your health
-                    care team to improve your health by
-                    preventing or managing chronic
-                    diseases affected by nutrition. At
-                    inutrition4u, we use evidence-based
-                    nutrition science to achieve changes
-                    in dietary patterns and nutritional
-                    status. This can improve overweight,
-                    underweight, blood sugar control,
-                    blood pressure, elevated cholesterol,
-                    and GI disorders.
+                As a Registered Dietitian/Nutritionist, Shadia will work as part of your health care team to improve your health by preventing or managing chronic diseases affected by nutrition. At Inutrition4U, we use evidence-based nutrition science to achieve changes in dietary patterns and nutritional status. This can improve overweight, underweight, blood sugar control, blood pressure, elevated cholesterol, and GI disorders. 
                 </h5>
             </div>
             <div class="col-xl-6">
@@ -131,9 +120,7 @@ include 'share.php';
                 </h1>
                 <h5 class="my-xl-5 italic-med">
 
-                    The answer to your insecurities, depression, and health problems is one
-                    dish away. Don’t let what you eat pull you away from accomplishing your
-                    dreams. Life is all about happiness, don’t let fad diets take that away
+                The answer to your insecurities, and health problems is one dish away. Don’t let what you eat pull you away from accomplishing your dreams. Life is all about happiness, don’t let fad diets take that away 
 
                 </h5>
             </div>
@@ -323,7 +310,8 @@ include 'share.php';
                     </h2>
                     <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
 
-                    Through individualized coaching, food psychology, clinical nutrition, science-based testing and a mind body approach to health and healing, work with me privately and we will craft your personal recipe to transform your health and your life.
+                    Through individualized coaching, food psychology, clinical nutrition, science-based 
+                    testing and a mind body approach to health and healing, work with us  privately and we will craft your personal recipe to transform your health and your life.
                     </p>
                 </div>
 

@@ -55,11 +55,11 @@ include 'share.php';
                     </h1>
                     <h3 class="mb-5 italic-med"> founder and CEO of inutrition4u </h3>
                     <p class="my-lg-5 my-3 italic-light-m " style="font-size:18px;">
-                    Having a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL, makes Shadia a one-of-a-kind nutritionist that could take your health to a whole new level, and improve your overall lifestyle. 
+                    Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL, and that makes her your best chance to take your health to a whole new level, and improve your overall lifestyle.
 <br> <br>
 Additionally, being a certified lactation consultant from the Academy of Lactation Policy and Practice makes her the perfect nutritionist for you and your family’s health.  
 <br> <br>
-Shadia is a registered/licensed dietitian and certified lactation consultant practicing in Palm Beach County, Florida. As a dietitian and nutritionist, Shadia provides counseling to her clients and helps them craft a path to wholesome eating and a healthy lifestyle. 
+Shadia is a registered/licensed dietitian and certified lactation consultant practicing in Palm Beach County, Florida. As a dietitian and nutritionist, Shadia provides counseling to her clients and helps them pave  a path to wholesome eating and a healthy lifestyle. 
 <br> <br>
 Shadia graduated from Florida International University with a bachelor’s degree in Dietetics & Nutrition in 2011 and a master’s degree in Dietetics & Nutrition in 2020. She has also earned a Pediatric Nutrition Certificate. After completing a dietetic internship program in 2012, Shadia became a registered dietitian/nutritionist and started working at the Health Department. In 2015, Shadia became the supervisor of Lantana clinic WIC, (Women, Infants, and Children). In 2017, Shadia achieved the Adult Weight Management Certificate. In 2018, she became a Certified Lactation Consultant with the Academy of Lactation Policy and Practice. From 2018 to 2019, she supervised both Lantana and Delray Beach clinics. Currently, Shadia is the site supervisor of Delray Beach clinic WIC in Palm Beach County, FL. Shadia has been recognized every year by Pasco County in appreciation for precepting dietetic student interns from 2015 to present. 
 
@@ -106,7 +106,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                         born with a rare metabolic disorder that doctors had little knowledge about. I
                         have always been willing to do anything to ensure his wellbeing. Since he was
                         young, I have been working with a team consisting of several doctors and a
-                        dietitian to manage Ali’s condition. I am very thankful that I chose the right
+                        dietitian to manage Ali’s condition. I am very thankful that I chose this
                         field and was able to make a great impact on his life.
                     </p>
 
@@ -131,7 +131,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                         Hippocrates, food has been considered a “medicine” that heals the body and
                         mind and can help prevent illness.<br><br>
                         “Let <span class="bold">food</span> be thy medicine, and let medicine be thy <span class="bold">food</span>.” The Greek
-                        physician Hippocrates famous <span class="bold">philosophy</span> .<br><br>
+                        physician Hippocrates , a famous<span class="bold"> philosopher. </span> .<br><br>
                         I enjoy making a positive impact on people’s lives. As a healthcare
                         professional and wellness advocate, I find my field is rewarding on a daily
                         basis, not only working with clients, but also speaking with friends and family
@@ -306,7 +306,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
 
 
 
-                        Like lots of people, I like to drink my cup of coffee in the morning, prepare my
+                        Like a lot of people, I like to drink my cup of coffee in the morning, prepare my
                         breakfast and lunch and leave to work. Since my job requires a lot of sitting at
                         my office. I wear my fit bit every morning to track my steps, so I can reach my
                         goal by the end of the day. In the afternoon, I try to stay active by going to
@@ -403,7 +403,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                         born with a rare metabolic disorder that doctors had little knowledge about. I
                         have always been willing to do anything to ensure his wellbeing. Since he was
                         young, I have been working with a team consisting of several doctors and a
-                        dietitian to manage Ali’s condition. I am very thankful that I chose the right
+                        dietitian to manage Ali’s condition. I am very thankful that I chose this
                         field and was able to make a great impact on his life.
                     </p>
 
@@ -456,7 +456,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
                         Hippocrates, food has been considered a “medicine” that heals the body and
                         mind and can help prevent illness.<br><br>
                         “Let <span class="bold">food</span> be thy medicine, and let medicine be thy <span class="bold">food</span>.” The Greek
-                        physician Hippocrates famous <span class="bold">philosophy</span> .<br><br>
+                        physician Hippocrates , a famous<span class="bold"> philosopher. </span> .<br><br>
                         I enjoy making a positive impact on people’s lives. As a healthcare
                         professional and wellness advocate, I find my field is rewarding on a daily
                         basis, not only working with clients, but also speaking with friends and family
@@ -532,7 +532,7 @@ Shadia graduated from Florida International University with a bachelor’s degre
 
 
 
-                        Like lots of people, I like to drink my cup of coffee in the morning, prepare my
+                        Like a lot of people, I like to drink my cup of coffee in the morning, prepare my
                         breakfast and lunch and leave to work. Since my job requires a lot of sitting at
                         my office. I wear my fit bit every morning to track my steps, so I can reach my
                         goal by the end of the day. In the afternoon, I try to stay active by going to
