@@ -43,7 +43,7 @@
                         </h1>
                         <p class="mb-lg-5 italic-light-m " style="font-size:22px;">
                             Protect your health and your family’s through
-                            <br> finding the right food
+                            <br> finding the right nutrition
 
                         </p>
                         <a href="services" class="d-lg-block d-none">
@@ -84,7 +84,8 @@
 
                         </h5>
                         <h5 class="mb-5 italic-light-m">
-                            The main reason I chose to become a nutrition expert was my son, Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge about. From my experience with this healthcare team, I recognized that nutrition was the most essential part in every child’s life. This motivated me to enroll in the Florida International University where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL.
+                            The main reason I chose to become a nutrition professional was my son, Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge about. From my experience with this healthcare team,
+                             I recognized that nutrition was the most essential part in every person’s life. This motivated me to enroll in the Florida International University where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL.
 
                         </h5>
 
@@ -103,8 +104,11 @@
                         MY <SPAN class="SemiBold"> MISSION</SPAN>
                     </h1>
                     <h5 class="  mb-5 italic-light-m">
-                        I have specialized in several nutrition areas including Pediatric Nutrition, Pediatric and Adult weight management, and I became a Certified Lactation consultant. I took it upon myself that I want to help every mother and child out there to live a healthy life full of energy and protect new mothers and their children. I have always gone above and beyond in helping my patients find their peace of mind. As a registered and licensed Dietitian/Nutritionist I provide sufficiently detailed nutrition advice that is relevant to a patient's health goals, useful for the patient, and that results in in measurable changes. These changes are the core of my
-                        career in the United States.
+                        I have specialized in several nutrition areas including Pediatric Nutrition,
+                         Pediatric and Adult weight management, and I became a Certified Lactation consultant. 
+                         I took it upon myself that I want to help every mother and child out there to live a healthy
+                          life full of energy and protect new mothers and their children. I have always gone above 
+                          and beyond in helping my patients find their peace of mind.
                     </h5>
                     <br>
                     <br>
@@ -114,7 +118,7 @@
                     </h1>
                     <h5 class="italic-light-m  mb-5">
 
-                        Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good diet plan.
+                        Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.
                     </h5>
 
                 </div>
@@ -138,7 +142,7 @@
                         “When in doubt, use nutrition first.”
                     </h1>
                     <h3 class="mb-5">
-                        Living a healthy secure life without health concerns is the dream of all individuals, and, for that, it is my duty as a nutritionist to help you find your comfort and happiness.
+                    Living a healthy life without health concerns is the dream of all individuals, and, for that, it is my as a nutritionist to help you find your comfort and happiness.
                     </h3>
 
 
@@ -204,11 +208,7 @@
                         <div class="tab-pane fade show active" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab"><img src="/images/nut2.png" class="w-100">
 
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
-                                <p>Different medical conditions require different
-                                    medical attention, and each and every person is
-                                    different and requires a specific diet plan, for that
-                                    reason I give each and every patient a custom-made nutrition plan dedicated to his own diet
-                                    needs.
+                                <p>Different medical conditions require different medical attention, and every person is different and requires a specific nutrition plan. Meet with Shadia to receive nutrition guidance and a personalized nutrition plan.
                                 </p>
                             </div>
 
@@ -317,7 +317,7 @@
                         </h4>
 
                         <h2 class="green SemiBold mb-5">
-                            I am specialized in different areas in nutrition like
+                            Specialties
 
                     </h3>
                 </div>

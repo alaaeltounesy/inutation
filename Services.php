@@ -116,7 +116,8 @@
                     </h1>
                     <h5 class="my-xl-5 italic-med">
 
-                        The answer to your insecurities, and health problems is one dish away. Don’t let what you eat pull you away from accomplishing your dreams. Life is all about happiness, don’t let fad diets take that away
+                        The answer to your insecurities, and health problems is one dish away.
+                         Don’t let what you eat pull you away from accomplishing your dreams. Life is all about happiness, don’t let fad diets take that away
 
                     </h5>
                 </div>
@@ -167,13 +168,11 @@
 
                     <div class="col-lg-10 col-12 p-lg-0">
                         <h2 class="mb-3 text-light SemiBold">
-                            Diabetes Management Meal Plan
+                            Diabetes Management 
                         </h2>
                         <p class="mb-lg-5 mb-3 text-light  text px-xl-5 px-md-3 px-2">
 
-                            Don’t get overwhelmed by the amount of medications and complex diet plans, let an expert help you
-                            create a balanced meal plan, regulate your blood glucose levels, control your blood pressure, and prevent
-                            the development of diabetes related health issues.
+                        Don’t get overwhelmed by the amount of medications and complex diet plans, let an expert help you create a balanced meal plan, regulate your blood glucose levels, control your blood pressure, and prevent the development of diabetes related health issues.
                         </p>
                     </div>
 
@@ -217,12 +216,10 @@
 
                     <div class="col-lg-10 col-12 p-lg-0">
                         <h2 class="mb-3 text-light SemiBold">
-                            Chronic Disease Meal Plan
+                            Chronic Disease 
                         </h2>
                         <p class="mb-lg-5 mb-3 text-light text px-xl-5 px-md-3 px-2">
-                            High cholesterol levels, lactose intolerance, gluten intolerance, cancer, oral mucositis, dialysis, ADHD,
-                            and many more chronic diseases could be controlled through the right dietary plan. Stay safe and keep
-                            your allergies under control with my customized meal plans.
+                        High cholesterol levels, high blood pressure, heart diseases, cancer and many more chronic diseases could be controlled through a precise dietary plan. Good nutrition is the necessary key for a long and healthy life. Adopt (incorporate, embrace) a healthy nutritional lifestyle with a customized nutrition plan.
                         </p>
                     </div>
 
@@ -251,8 +248,7 @@
                         </h2>
                         <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
 
-                            Following fad diets could be harmful to your body. You’re losing a huge amount of <br>
-                            nutrients that your body needs by blindly preventing yourself from certain foods.
+                        Following fad diets could be harmful to your body. You’re losing a huge amount of nutrients that body needs by blindly restricting yourself from specific foods.
 
                         </p>
                     </div>
@@ -271,7 +267,7 @@
                     <div class="col-lg-10 col-12 p-lg-0">
                         <h2 class="mb-3 SemiBold">
 
-                            As Fit As a Fiddle Meal Plan
+                            As Fit As a Fiddle 
                         </h2>
                         <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
 
@@ -325,7 +321,7 @@
 
                     <div class="col-lg-10 col-12 p-lg-0">
                         <h2 class="mb-3 SemiBold">
-                            Health & Wellness Meal Plans
+                            Health & Wellness 
                         </h2>
                         <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
 
@@ -406,9 +402,10 @@
                             Prenatal, Pregnancy & Lactation
                         </h2>
                         <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-                            Your and your baby’s health are precious and in need of frequent monitoring. <br>Don’t
-                            let the wrong types of food endanger your life, or harm your baby.
-
+                            Your and your baby’s health are precious and in need of frequent monitoring. 
+                            <br>
+                       
+                            let us provide you with guidance and nutrition education for a healthy baby.
                         </p>
                     </div>
 
@@ -426,15 +423,11 @@
 
                     <div class="col-lg-10 col-12 p-lg-0">
                         <h2 class="mb-3 SemiBold">
-                            Prenatal, Pregnancy & Lactation Meal Plan
+                            Prenatal, Pregnancy & Lactation 
                         </h2>
                         <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
 
-                            Every mother has the right to secure the future of her babies. . Prenatal, pregnancy and lactation
-                            nutritional plans are crucial for the health of your children. Reading a book or two won’t help you figure
-                            out the right nutrients needed especially for your health, and trying a random diet would endanger the
-                            health of your children, so follow the advice of a certified nutritionist and a lactation consultant and find
-                            the healthiest road for your family
+                        Every mother has the right to secure the future of her babies. Prenatal, pregnancy and lactation nutritional plans are crucial for the health of your children, and your own health as well. What you need is carefully crafted meals that will give your body the essential nutrition it needs to ensure a healthy pregnancy, and ensure a healthy baby. This also applies to lactation. Your body needs specific elements to ensure that your baby stays healthy.
                         </p>
                     </div>
 

@@ -76,12 +76,16 @@
                         GET IN TOUCH
                     </h3>
                     <h4 CLass="SemiBold mb-5">
-                        Are you pregnant or planning to get pregnant? <BR>
-                        Curious about how will I carry out your plan?
+                    Are you striving for a healthy style life in smooth simple steps?
+                    <br>
+Are you tired of overthinking what food might cause you harm?
+<br>
+ I can help.
+
 
                     </H4>
                     <p class="italic-med mb-5">
-                        You could send me all your inquiries, worries, or concerns, and I’ll tell you how I could help you
+                    You could send me all your inquiries, worries, or concerns, and I’ll tell you how I could help you
 
                     </p>
                 </div>

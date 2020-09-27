@@ -1,4 +1,4 @@
-<link rel="icon" href="favicon.ico" type="/image/png">
+<link rel="icon" href="/images/favicon.png" type="/image/png">
 <link rel="stylesheet" href="/css/bootstrap.min.css" />
 <link rel="stylesheet" href="/css/fontawesome-all.min.css" />
 <link rel="stylesheet" href="/css/style.css" />
