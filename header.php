@@ -99,7 +99,7 @@
             <a class="nav-link " href="/">HOME</a>
           </li>
           <li class="nav-item <?php if ($pn == "About") echo 'active'; ?>">
-            <a class="nav-link  " href="/about">ABOUT</a>
+            <a class="nav-link  " href="/About">ABOUT</a>
           </li>
           <li class="nav-item <?php if ($pn == "Services") echo 'active'; ?> ">
             <a class="nav-link" href="Services">SERVICES</a>
