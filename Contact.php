@@ -150,7 +150,81 @@ include 'share.php';
         <div class="row social-contact col-xl-6 col-md-9 col-7 mx-auto justify-content-center p-0  mt-5">
             <div class="   col-md-6 col-xl-5  p-0 my-md-5 my-3">
 
+<<<<<<< Updated upstream
                 <a target="_black" class="italic-SemiBold black mt-5" href="https://www.facebook.com/ShadiaHamadeh/">
+=======
+    <section class="sec2-c py-5 px-lg-0 px-2">
+        <div class="container-fluid w-85 py-5 ">
+            <div class="row " style="border:2px solid black;">
+                <div class="col-lg-12  text-center">
+                    <h1 CLass="SemiBold d-md-block d-none head-get">
+                        GET IN TOUCH
+                    </h1>
+                    <h3 CLass="SemiBold d-md-none d-block  head-get">
+                        GET IN TOUCH
+                    </h3>
+                    <h4 CLass="SemiBold mb-5">
+                    Are you striving for a healthy style life in smooth simple steps?
+                    <br>
+Are you tired of overthinking what food might cause you harm?
+<br>
+ I can help.
+
+
+                    </H4>
+                    <p class="italic-med mb-5">
+                    You could send me all your inquiries, worries, or concerns, and I’ll tell you how I could help you
+
+                    </p>
+                </div>
+                <div class=" col-xl-5  col-md-7 mt-5  mx-auto px-3 ">
+                    <form class="form1 ajax" action="/mail.php">
+                        <div class="form-group ">
+                            <label for="exampleInputName1">Name </label>
+                            <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">
+
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email </label>
+                            <input type="email" name="email" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPhone"> Phone</label>
+                            <input name="phone" type="tel" required class="form-control" id="exampleInputPhone">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputFindme">How did you find me? </label>
+                            <input type="text" name="message1" class="form-control" id="exampleInputFindme" aria-describedby="FindmeHelp">
+
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputHelpyou">How can I help You ? </label>
+
+                            <textarea class="form-control" name="message2" id="exampleInputHelpyou" aria-describedby="HelpyouHelp" col="12" rows="5"></textarea>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn col-lg-5 submit-form-btn col-6 py-2 mx-auto my-4 text-center sent-btn">SEND</button>
+
+                        </div>
+                        <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
+                            Thank you for reaching out to us, we will get back to you as soon as possible!
+                        </div>
+                    </form>
+
+                </div>
+                <div class="col-lg-12  text-center">
+                    <h1 CLass="d-md-block d-none  foot-get">
+                        CONNECT WITH <span class="SemiBold"> SHADIA</span>
+                    </h1>
+                    <h3 CLass="d-md-none d-block  foot-get">
+                        CONNECT WITH <span class="SemiBold"> SHADIA</span>
+                    </h3>
+                </div>
+>>>>>>> Stashed changes
 
                     <svg xmlns="http://www.w3.org/2000/svg" alt="facebook" id="facebook" width="25" height="25" class="mr-lg-4 mr-2" viewBox="0 0 17.722 32.779">
                         <path id="Path_1" data-name="Path 1" d="M39.132.007,34.881,0c-4.776,0-7.862,3.166-7.862,8.067v3.719H22.745a.668.668,0,0,0-.668.669v5.389a.668.668,0,0,0,.668.668h4.274v13.6a.668.668,0,0,0,.668.668h5.576a.668.668,0,0,0,.668-.668v-13.6h5a.668.668,0,0,0,.668-.668l0-5.389a.669.669,0,0,0-.669-.669h-5V8.633c0-1.515.361-2.285,2.335-2.285h2.863a.668.668,0,0,0,.668-.668v-5A.669.669,0,0,0,39.132.007Z" transform="translate(-22.077)" />
