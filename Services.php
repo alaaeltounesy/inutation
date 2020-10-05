@@ -29,7 +29,7 @@
     <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/ser-h.png.png">
 
 
-</head>
+
     <?php
     $pn = "Services";
     include 'header.php';
@@ -167,14 +167,14 @@
 
                 </div>
             </div>
-            <div class="container-fluid text-light s-h  py-md-5 py-5 mt-5  s1-h">
+            <div class="container-fluid  s-h  py-md-5 py-5 mt-5  s1-h">
                 <div class="row py-lg-5 text-center justify-content-center ">
 
                     <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3 text-light SemiBold">
+                        <h2 class="mb-3  SemiBold">
                             Diabetes Management 
                         </h2>
-                        <p class="mb-lg-5 mb-3 text-light  text px-xl-5 px-md-3 px-2">
+                        <p class="mb-lg-5 mb-3   text px-xl-5 px-md-3 px-2">
 
                         Don’t get overwhelmed by the amount of medications and complex diet plans, let an expert help you create a balanced meal plan, regulate your blood glucose levels, control your blood pressure, and prevent the development of diabetes related health issues.
                         </p>
@@ -215,14 +215,14 @@
                 </div>
             </div>
 
-            <div class="container-fluid text-light   py-md-5 py-5  mt-5 s-h  s2-h">
+            <div class="container-fluid    py-md-5 py-5  mt-5 s-h  s2-h">
                 <div class="row py-lg-5 text-center justify-content-center ">
 
                     <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3 text-light SemiBold">
+                        <h2 class="mb-3  SemiBold">
                             Chronic Disease 
                         </h2>
-                        <p class="mb-lg-5 mb-3 text-light text px-xl-5 px-md-3 px-2">
+                        <p class="mb-lg-5 mb-3  text px-xl-5 px-md-3 px-2">
                         High cholesterol levels, high blood pressure, heart diseases, cancer and many more chronic diseases could be controlled through a precise dietary plan. Good nutrition is the necessary key for a long and healthy life. Adopt (incorporate, embrace) a healthy nutritional lifestyle with a customized nutrition plan.
                         </p>
                     </div>
@@ -265,7 +265,7 @@
 
                 </div>
             </div>
-            <div class="container-fluid s-h text-light  py-md-5 py-5 mt-5 s3-h">
+            <div class="container-fluid s-h   py-md-5 py-5 mt-5 s3-h">
                 <div class="row py-lg-5 text-center justify-content-center">
 
                     <div class="col-lg-10 col-12 p-lg-0">
@@ -320,7 +320,7 @@
 
                 </div>
             </div>
-            <div class="container-fluid s-h text-light   py-md-5 py-5 mt-5 s5-h">
+            <div class="container-fluid s-h    py-md-5 py-5 mt-5 s5-h">
                 <div class="row py-lg-5 text-center justify-content-center">
 
                     <div class="col-lg-10 col-12 p-lg-0">
@@ -370,7 +370,7 @@
 
                 </div>
             </div>
-            <div class="container-fluid  s-h text-light  py-md-5 py-5 mt-5 s6-h">
+            <div class="container-fluid  s-h   py-md-5 py-5 mt-5 s6-h">
                 <div class="row py-lg-5 text-center justify-content-center">
 
                     <div class="col-lg-10 col-12 p-lg-0">
@@ -421,7 +421,7 @@
 
                 </div>
             </div>
-            <div class="container-fluid text-light s-h   py-md-5 py-5 mt-5 s4-h">
+            <div class="container-fluid  s-h   py-md-5 py-5 mt-5 s4-h">
                 <div class="row py-lg-5 text-center justify-content-center">
 
 

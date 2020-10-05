@@ -28,7 +28,7 @@
     <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/dr-shadia.png">
 
 
-</head>
+
 
 
 

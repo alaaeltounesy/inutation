@@ -25,7 +25,7 @@
     <meta property="og:url" content="https://www.inutrition4u.com/Blog">
 
     <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/post2.jpg">
-</head>
+
 <?php $pn = "Blog";
 include 'header.php';
 include 'share.php';

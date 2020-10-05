@@ -29,7 +29,7 @@
     <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/post1.jpg">
 
     <meta name="theme-color" content="">
-</head>
+
 <?php $pn = "article";
 include 'header.php';
 include 'share.php';
