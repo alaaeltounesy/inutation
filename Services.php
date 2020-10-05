@@ -7,25 +7,29 @@
     </title>
 
 
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <meta name="title" content=" Creating Healthier Lives ">
+    <meta name="description" content="As a Registered Dietitian/Nutritionist, Shadia will work as part of your health care team to improve your health by preventing or managing chronic diseases affected by nutrition. At Inutrition4U, we use evidence-based nutrition science to achieve changes in dietary patterns and nutritional status. This can improve overweight, underweight, blood sugar control, blood pressure, elevated cholesterol, and GI disorders.">
+    <meta name="author" content="Rewardlion">
+    <meta name="keywords" content="">
+    <meta property="og:title" content="Creating Healthier Lives ">
+    <meta property="og:description" content="As a Registered Dietitian/Nutritionist, Shadia will work as part of your health care team to improve your health by preventing or managing chronic diseases affected by nutrition. At Inutrition4U, we use evidence-based nutrition science to achieve changes in dietary patterns and nutritional status. This can improve overweight, underweight, blood sugar control, blood pressure, elevated cholesterol, and GI disorders.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Inutrition4u">
+    <meta name="twitter:image:alt" content="Inutrition4u">
+    <meta property="og:type" content="website">
+    <meta property="og:image:width" content="1080">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image" content="https://www.inutrition4u.com/images/ser-h.png.png">
+    <meta property="og:url" content="https://www.inutrition4u.com/Services">
 
-    <meta name="title" content="">
+    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/ser-h.png.png">
 
-    <meta name="description" content="">
 
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
-    <meta property="og: type" content="">
-
-    <meta name="twitter:card" content="">
-    <meta name="twitter:image:alt" content="">
-
-    <meta name="theme-color" content="">
-
+</head>
     <?php
     $pn = "Services";
     include 'header.php';
@@ -95,7 +99,7 @@
                     </h5>
                 </div>
                 <div class="col-xl-6">
-                    <img src="/images/ser-h.png" class="w-100  d-block d-xl-none">
+                    <img alt="nutrition happy family" src="/images/ser-h.png" class="w-100  d-block d-xl-none">
                 </div>
             </div>
         </div>
@@ -106,7 +110,7 @@
             <div class="row text-center py-xl-5 ">
 
                 <div class="col-12  d-none">
-                    <img src="/images/hs2.png" class="w-100  ">
+                    <img alt="nutrition vegetables" src="/images/hs2.png" class="w-100  ">
                 </div>
                 <div class="col-xl-8 py-xl-5">
                     <h1 class="my-xl-5 mb-lg-5 mb-3 italic-SemiBold">

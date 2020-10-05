@@ -6,27 +6,49 @@
         Inutrition4u | Home
     </title>
 
-
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.inutrition4u.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.google.com/search?q=%7Bsearch_term_string%7D+site%3Ainutrition4u.com",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Rewardlion">
+    <meta name="keywords" content="">
+
+    <meta name="title" content="Find the best version  of you today!">
+  <meta name="description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
+   <meta property="og:title" content="Find the best version  of you today!">
+    <meta property="og:description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Inutrition4u">
+    <meta name="twitter:image:alt" content="Inutrition4u">
+    <meta property="og:type" content="website">
+    <meta property="og:image:width" content="1080">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image" content="https://www.inutrition4u.com/images/nut2.png">
+    <meta property="og:url" content="https://www.inutrition4u.com/">
+
+    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/nut2.png">
+    <meta name="theme-color" content="#F1F9F1">
+    <link rel="apple-touch-icon" sizes="152x152" href="/appicons/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/appicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/appicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/appicons/favicon-16x16.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/appicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/appicons/favicon.png">
 
 
-    <meta name="title" content="">
-
-    <meta name="description" content="">
-
-
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
-    <meta property="og: type" content="">
-    <meta name="twitter:card" content="">
-    <meta name="twitter:image:alt" content="">
-    <meta name="theme-color" content="">
-
-
-
+</head>
 
     <?php $pn = "Home";
     include 'header.php';
@@ -53,7 +75,7 @@
                 </div>
 
                 <div class="col-lg-6 d-lg-none d-block text-center" style="position:relative;">
-                    <img src="/images/mask1.png" class="w-100 ">
+                    <img alt="happy diet nutrition" src="/images/mask1.png" class="w-100 ">
                     <a href="services" class="d-lg-none d-block" style="position: absolute;
     width: 80%;
     left: 10%;
@@ -85,7 +107,7 @@
                         </h5>
                         <h5 class="mb-5 italic-light-m">
                             The main reason I chose to become a nutrition professional was my son, Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge about. From my experience with this healthcare team,
-                             I recognized that nutrition was the most essential part in every person’s life. This motivated me to enroll in the Florida International University where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL.
+                            I recognized that nutrition was the most essential part in every person’s life. This motivated me to enroll in the Florida International University where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL.
 
                         </h5>
 
@@ -93,7 +115,7 @@
                 </div>
 
                 <div class="col-lg-6 ">
-                    <img src="/images/mask2.png" class="w-100 ">
+                    <img alt="nutrition dr-shadia" src="/images/dr-shadia.png" class="w-100 ">
 
 
                 </div>
@@ -105,10 +127,10 @@
                     </h1>
                     <h5 class="  mb-5 italic-light-m">
                         I have specialized in several nutrition areas including Pediatric Nutrition,
-                         Pediatric and Adult weight management, and I became a Certified Lactation consultant. 
-                         I took it upon myself that I want to help every mother and child out there to live a healthy
-                          life full of energy and protect new mothers and their children. I have always gone above 
-                          and beyond in helping my patients find their peace of mind.
+                        Pediatric and Adult weight management, and I became a Certified Lactation consultant.
+                        I took it upon myself that I want to help every mother and child out there to live a healthy
+                        life full of energy and protect new mothers and their children. I have always gone above
+                        and beyond in helping my patients find their peace of mind.
                     </h5>
                     <br>
                     <br>
@@ -125,7 +147,7 @@
                 <div class="col-lg-4 col-8 text-center mx-auto">
                     <a href="services">
                         <button class="btn lrn-btn mb-5 w-80 ">
-                            LEARN MORE
+                            START NOW
                         </button>
                     </a>
                 </div>
@@ -142,7 +164,7 @@
                         “When in doubt, use nutrition first.”
                     </h1>
                     <h3 class="mb-5">
-                    Living a healthy life without health concerns is the dream of all individuals, and, for that, it is my as a nutritionist to help you find your comfort and happiness.
+                        Living a healthy life without health concerns is the dream of all individuals, and, for that, it is my as a nutritionist to help you find your comfort and happiness.
                     </h3>
 
 
@@ -185,7 +207,8 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4" role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
+                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4"
+                             role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
                             </a>
                         </li>
                         <li class="nav-item">
@@ -205,7 +228,8 @@
                 <div class="col-xl-6 col-lg-10  row px-lg-0  col-11 mx-auto">
                     <div class="tab-content w-100" id="pills-tabContent">
 
-                        <div class="tab-pane fade show active" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab"><img src="/images/nut2.png" class="w-100">
+                        <div class="tab-pane fade show active" id="pills-nut2" role="tabpanel" aria-labelledby="pills-nut2-tab">
+                            <img alt="    Personalized Nutrition Plan for Medical Conditions" src="/images/nut2.png" class="w-100">
 
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                                 <p>Different medical conditions require different medical attention, and every person is different and requires a specific nutrition plan. Meet with Shadia to receive nutrition guidance and a personalized nutrition plan.
@@ -214,7 +238,8 @@
 
 
                         </div>
-                        <div class="tab-pane fade" id="pills-nut3" role="tabpanel" aria-labelledby="pills-nut3-tab"><img src="/images/nut3.png" class="w-100">
+                        <div class="tab-pane fade" id="pills-nut3" role="tabpanel" aria-labelledby="pills-nut3-tab">
+                            <img alt="  Weight Management " src="/images/nut3.png" class="w-100">
 
 
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
@@ -232,7 +257,8 @@
                             </div>
 
                         </div>
-                        <div class="tab-pane fade" id="pills-nut4" role="tabpanel" aria-labelledby="pills-nut4-tab"><img src="/images/nut4.png" class="w-100">
+                        <div class="tab-pane fade" id="pills-nut4" role="tabpanel" aria-labelledby="pills-nut4-tab">
+                            <img alt="nutrition   Meal Planning" src="/images/nut4.png" class="w-100">
 
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                                 <p>
@@ -248,7 +274,8 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="pills-nut5" role="tabpanel" aria-labelledby="pills-nut5-tab"><img src="/images/nut5.png" class="w-100">
+                        <div class="tab-pane fade" id="pills-nut5" role="tabpanel" aria-labelledby="pills-nut5-tab">
+                            <img alt="nutrition Prenatal, Pregnancy & Postpartum  " src="/images/nut5.png" class="w-100">
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                                 <p>
                                     “We are indeed much more than what we eat, but what
@@ -265,7 +292,8 @@
                             </div>
 
                         </div>
-                        <div class="tab-pane fade" id="pills-nut6" role="tabpanel" aria-labelledby="pills-nut6-tab"><img src="/images/nut6.png" class="w-100">
+                        <div class="tab-pane fade" id="pills-nut6" role="tabpanel" aria-labelledby="pills-nut6-tab">
+                            <img alt="nutrition Health & Wellness" src="/images/nut6.png" class="w-100">
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                                 <p>
 
@@ -280,7 +308,8 @@
 
                         </div>
 
-                        <div class="tab-pane fade" id="pills-nut7" role="tabpanel" aria-labelledby="pills-nut7-tab"><img src="/images/nut7.png" class="w-100">
+                        <div class="tab-pane fade" id="pills-nut7" role="tabpanel" aria-labelledby="pills-nut7-tab">
+                            <img alt="nutrition  Lactation and Breastfeeding" src="/images/nut7.png" class="w-100">
                             <div class="cont-tabs pl-xl-0 pr-xl-5 py-5 ">
                                 <p>
                                     It is hard to find the perfect plan for your body to stay healthy. My strategy is to create a specific plan for you. Each body is different, and it needs a different strategy to care for it. Don’t let random meal plans harm your body. I can help you make the perfect plan for you to keep you healthy and fit.
@@ -323,14 +352,14 @@
                 </div>
 
                 <div class="col-12 py-lg-5">
-                    <img src="/images/icon3.png" class="w-100 d-lg-block d-none">
-                    <img src="/images/iconm.png" class="w-100 d-lg-none d-block">
+                    <img alt="nutrition Weight Management " src="/images/icon3.png" class="w-100 d-lg-block d-none">
+                    <img alt="nutrition Weight Management" src="/images/iconm.png" class="w-100 d-lg-none d-block">
                 </div>
 
                 <div class="col-lg-4 col-8 text-center mx-auto">
                     <a href="services">
                         <button class="btn my-5 lrn-btn w-80 ">
-                            LEARN MORE
+                            START NOW
                         </button>
                     </a>
                 </div>
@@ -348,7 +377,7 @@
             </h3>
             <div class="col-12 px-0">
 
-                <img src="/images/veg.png" class="w-100">
+                <img alt="nutrition Health & Wellness " src="/images/veg.png" class="w-100">
             </div>
 
         </div>

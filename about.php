@@ -10,21 +10,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
     <meta name="title" content="  Inutrition4u | About">
-
-    <meta name="description" content="">
-
+    <meta name="description" content=" Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family  ">
+    <meta name="author" content="Rewardlion">
+    <meta name="keywords" content="">
     <meta property="og:title" content="  Inutrition4u | About">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
-    <meta property="og: type" content="">
+    <meta property="og:description" content="Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Inutrition4u">
+    <meta name="twitter:image:alt" content="Inutrition4u">
+    <meta property="og:type" content="website">
+    <meta property="og:image:width" content="1080">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image" content="https://www.inutrition4u.com/images/dr-shadia.png">
+    <meta property="og:url" content="https://www.inutrition4u.com/About">
 
-    <meta name="twitter:card" content="">
-    <meta name="twitter:image:alt" content="">
-
-    <meta name="theme-color" content="">
+    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/dr-shadia.png">
 
 
 </head>
@@ -55,9 +56,16 @@ include 'share.php';
                     </h1>
                     <h3 class="mb-5 italic-med"> founder and CEO of inutrition4u </h3>
                     <p class="my-lg-5 my-3 italic-light-m " style="font-size:18px;">
-                    Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family. <br> <br>
-                        Shadia graduated from Florida International University with a bachelor’s degree in Dietetics & Nutrition in 2011 and a master’s degree in Dietetics & Nutrition in 2020. She has also earned a Pediatric Nutrition Certificate. After completing a dietetic internship program in 2012, Shadia became a registered dietitian/nutritionist and started working at the Health Department. In 2015, Shadia became the supervisor of Lantana clinic WIC, (Women, Infants, and Children). In 2017, Shadia achieved the Adult Weight Management Certificate. in 2018, she became a Certified Lactation Consultant. From 2018 to 2019, she supervised both Lantana and Delray Beach clinics. Currently, in 2018, she becamaShadia is the site supervisor of Delray Beach WIC clinic in Palm Beach County, FL.e a Certified Lactation Consultant Shadia has been recognized every year by Pasco County in appreciation for precepting dietetic student interns from 2015 to present.
-
+                        Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family. <br> <br>
+                        <a class="read-btn Peach">
+                        Continue Reading ...
+                      </a>
+                   <span class="read-text">    Shadia graduated from Florida International University with a bachelor’s degree in Dietetics & Nutrition in 2011 and a master’s degree in Dietetics & Nutrition in 2020. She has also earned a Pediatric Nutrition Certificate. After completing a dietetic internship program in 2012, Shadia became a registered dietitian/nutritionist and started working at the Health Department. In 2015, Shadia became the supervisor of Lantana clinic WIC, (Women, Infants, and Children). In 2017, Shadia achieved the Adult Weight Management Certificate. in 2018, she became a Certified Lactation Consultant. From 2018 to 2019, she supervised both Lantana and Delray Beach clinics. Currently, in 2018, she becamaShadia is the site supervisor of Delray Beach WIC clinic in Palm Beach County, FL.e a Certified Lactation Consultant Shadia has been recognized every year by Pasco County in appreciation for precepting dietetic student interns from 2015 to present.
+                   </span> 
+                  
+                   <a class="less-btn Peach">
+                        Less Reading
+                      </a>
                     </p>
 
                 </div>
@@ -66,7 +74,7 @@ include 'share.php';
 
             <div class="col-lg-6  ">
 
-                <img src="/images/mask2.png" class="w-100">
+                <img alt=" nutrition dr-shadia" src="/images/dr-shadia.png" class="w-100">
 
             </div>
             <div>
@@ -752,7 +760,7 @@ include 'share.php';
 </section>
 
 <section class="sec4-b ">
-    <img src=" images/bg-about.png" class="w-100">
+    <img alt="nutrition happy diet" src=" images/bg-about.png" class="w-100">
 </section>
 
 
