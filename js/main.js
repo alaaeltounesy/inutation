@@ -86,8 +86,8 @@ $(document).ready(function () {
     var target = $(this).attr('action');
     var formData = new FormData(this);
     postData(target, formData).then(data => {
-      if(data.state){
-
+      if(data){
+          $(this).children(".alert").show("show").delay(3000).hide("show");
       }else{
         
       }
@@ -95,7 +95,7 @@ $(document).ready(function () {
     
     //  $this.children('.msg-alrt').html();
     });
-    $(this).children(".alert").show("show").delay(3000).hide("show");
+    
   });
 });
 var clicks = 0;
