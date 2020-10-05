@@ -35,7 +35,7 @@ add life to your days!">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/appicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/appicons/favicon.png">
-</head>
+
 <?php
 $pn = "Contact";
 include 'header.php';

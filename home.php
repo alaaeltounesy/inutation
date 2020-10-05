@@ -6,19 +6,7 @@
         Inutrition4u | Home
     </title>
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": "https://www.inutrition4u.com/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://www.google.com/search?q=%7Bsearch_term_string%7D+site%3Ainutrition4u.com",
-        "query-input": "required name=search_term_string"
-      }
-    }
-    
-    </script>
+ 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rewardlion">
@@ -48,7 +36,7 @@
     <link rel="icon" type="image/png" href="/appicons/favicon.png">
 
 
-</head>
+
 
     <?php $pn = "Home";
     include 'header.php';
