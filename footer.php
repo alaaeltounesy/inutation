@@ -94,7 +94,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/CSSPlugin.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/TextPlugin.min.js"></script>
 
-<script src="/js/main.js"></script>
+<script src="/js/main.js?v=1"></script>
 
 </body>
 

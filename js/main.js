@@ -88,6 +88,7 @@ $(document).ready(function () {
     postData(target, formData).then(data => {
       if(data){
           $(this).children(".alert").show("show").delay(3000).hide("show");
+          document.querySelector("form.ajax").reset();
       }else{
         
       }

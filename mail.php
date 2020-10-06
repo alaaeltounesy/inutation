@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' ){
     $headers = 'From: ' .$_POST['email']. "\r\n" .
     'Reply-To:  '.$_POST['email']. "\r\n" .
     'X-Mailer: PHP/' . phpversion();
-    if(mail('shadia.hamadeh@gmail.com', 'From Web Site', $message,$headers))
+    if(mail('info@emadissa.com', 'From Web Site', $message,$headers))
     $res = true;
 
 }

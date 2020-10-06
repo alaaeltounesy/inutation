@@ -56,7 +56,7 @@
                             <br> finding the right nutrition
 
                         </p>
-                        <a href="services" class="d-lg-block d-none">
+                        <a href="/Services" class="d-lg-block d-none">
                             <button class="btn   str-btn col-6"> START TODAY</button>
                         </a>
                     </div>
@@ -64,7 +64,7 @@
 
                 <div class="col-lg-6 d-lg-none d-block text-center" style="position:relative;">
                     <img alt="happy diet nutrition" src="/images/mask1.png" class="w-100 ">
-                    <a href="services" class="d-lg-none d-block" style="position: absolute;
+                    <a href="/Services" class="d-lg-none d-block" style="position: absolute;
     width: 80%;
     left: 10%;
     bottom: 10%;">
@@ -133,7 +133,7 @@
 
                 </div>
                 <div class="col-lg-4 col-8 text-center mx-auto">
-                    <a href="services">
+                    <a href="/Services">
                         <button class="btn lrn-btn mb-5 w-80 ">
                             START NOW
                         </button>
@@ -345,7 +345,7 @@
                 </div>
 
                 <div class="col-lg-4 col-8 text-center mx-auto">
-                    <a href="services">
+                    <a href="/Services">
                         <button class="btn my-5 lrn-btn w-80 ">
                             START NOW
                         </button>
