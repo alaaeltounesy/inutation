@@ -72,9 +72,6 @@ add life to your days!">
                 <div>
     </section>
 
-
-
-
     <section class="sec2-c py-5 px-lg-0 px-2">
         <div class="container-fluid w-85 py-5 ">
             <div class="row " style="border:2px solid black;">
@@ -92,24 +89,19 @@ add life to your days!">
                         <br>
 
                         I can help.
-
-
                     </H4>
                     <p class="italic-med mb-5">
                         You can send me all your inquiries, worries, or concerns, and I’ll know how to help you. </p>
                 </div>
                 <div class=" col-xl-5  col-md-7 mt-5  mx-auto px-3 ">
-                    <form class="form1 ajax" action="test.json">
-                        <div class="form-group ">
+                    <form class="form ajax" action="/mail.php" method="post">
+                        <div class="form-group">
                             <label for="exampleInputName1">Name </label>
                             <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">
-
                         </div>
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email </label>
                             <input type="email" name="email" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-
-
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPhone"> Phone</label>
@@ -118,18 +110,14 @@ add life to your days!">
 
                         <div class="form-group">
                             <label for="exampleInputFindme">How did you find me? </label>
-                            <input type="text" name="finding" class="form-control" id="exampleInputFindme" aria-describedby="FindmeHelp">
-
+                            <input type="text" name="message1" class="form-control" id="exampleInputFindme" aria-describedby="FindmeHelp">
                         </div>
-
                         <div class="form-group">
                             <label for="exampleInputHelpyou">How can I help You ? </label>
-
-                            <textarea class="form-control" name="help" id="exampleInputHelpyou" aria-describedby="HelpyouHelp" col="12" rows="5"></textarea>
+                            <textarea class="form-control" name="message2" id="exampleInputHelpyou" aria-describedby="HelpyouHelp" col="12" rows="5"></textarea>
                         </div>
                         <div class="form-group text-center">
                             <button type="submit" class="btn col-lg-5 submit-form-btn col-6 py-2 mx-auto my-4 text-center sent-btn">SEND</button>
-
                         </div>
                         <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
                             Thank you for reaching out to us, we will get back to you as soon as possible!

@@ -82,13 +82,14 @@ async function postData(url = '', data = {}) {
 $(document).ready(function () {
   $("form.ajax").submit(function (e) {
     e.preventDefault();
-    var $this = $(this);
+    var form = document.querySelector("form.ajax");
     var target = $(this).attr('action');
-    var formData = new FormData(this);
+    var formData = JSON.stringify(new FormData(this));
+    console.log(formData);
     postData(target, formData).then(data => {
       if(data){
           $(this).children(".alert").show("show").delay(3000).hide("show");
-          document.querySelector("form.ajax").reset();
+          form.reset();
       }else{
         
       }
