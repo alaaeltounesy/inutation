@@ -6,15 +6,14 @@
         Inutrition4u | Home
     </title>
 
- 
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rewardlion">
-    <meta name="keywords" content="">
-
-    <meta name="title" content="Find the best version  of you today!">
-  <meta name="description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
-   <meta property="og:title" content="Find the best version  of you today!">
+    <meta name="keywords" content=" health , nutrition ,consultant ,diets  , weight , motherhood ,pregnancy , lactation , breastfeeding ,  best diet , the motherhood ,  breastfeeding breast">
+   <meta name="title" content="Find the best version  of you today!">
+    <meta name="description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
+    <meta property="og:title" content="Find the best version  of you today!">
     <meta property="og:description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
     <meta name="twitter:card" content="summary_large_image">
     <meta property="og:site_name" content="Inutrition4u">
@@ -56,7 +55,7 @@
                             <br> finding the right nutrition
 
                         </p>
-                        <a href="services" class="d-lg-block d-none">
+                        <a href="/Services" class="d-lg-block d-none">
                             <button class="btn   str-btn col-6"> START TODAY</button>
                         </a>
                     </div>
@@ -64,7 +63,7 @@
 
                 <div class="col-lg-6 d-lg-none d-block text-center" style="position:relative;">
                     <img alt="happy diet nutrition" src="/images/mask1.png" class="w-100 ">
-                    <a href="services" class="d-lg-none d-block" style="position: absolute;
+                    <a href="/Services" class="d-lg-none d-block" style="position: absolute;
     width: 80%;
     left: 10%;
     bottom: 10%;">
@@ -133,7 +132,7 @@
 
                 </div>
                 <div class="col-lg-4 col-8 text-center mx-auto">
-                    <a href="services">
+                    <a href="/Services">
                         <button class="btn lrn-btn mb-5 w-80 ">
                             START NOW
                         </button>
@@ -195,8 +194,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4"
-                             role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
+                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4" role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
                             </a>
                         </li>
                         <li class="nav-item">
@@ -345,7 +343,7 @@
                 </div>
 
                 <div class="col-lg-4 col-8 text-center mx-auto">
-                    <a href="services">
+                    <a href="/Services">
                         <button class="btn my-5 lrn-btn w-80 ">
                             START NOW
                         </button>
