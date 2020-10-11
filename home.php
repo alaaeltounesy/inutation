@@ -2,9 +2,7 @@
 <html>
 
 <head>
-    <title>
-        Inutrition4u | Home
-    </title>
+    <title> Inutrition4u | Home </title>
 
 
     <meta charset="UTF-8">

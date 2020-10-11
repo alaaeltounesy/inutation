@@ -20,24 +20,26 @@ async function postData(url = '', data = {}) {
   return response.json(); // parses JSON response into native JavaScript objects
 }
 const cform = document.querySelector(".contact-form");
-cform.addEventListener("submit", function (e) {
-  e.preventDefault();
-  const formData = new FormData(cform);
-  var object = {};
-  formData.forEach(function (value, key) {
-    object[key] = value;
-  });
+if (cform)
+  cform.addEventListener("submit", function (e) {
+    e.preventDefault();
+    const formData = new FormData(cform);
+    var object = {};
+    formData.forEach(function (value, key) {
+      object[key] = value;
+    });
 
-  postData("/mail.php", object).then(data => {
-    if (data) {
-      $(this).children(".alert").show("show").delay(3000).hide("show");
-      cform.reset();
-    } else {
+    postData("/mail.php", object).then(data => {
+      if (data === true) {
+        
+        $(this).children(".alert").show("show").delay(3000).hide("show");
+        cform.reset();
+      } else {
 
-    }
-    console.log(data);
+      }
+      console.log(data);
+    });
   });
-});
 $(document).ready(function () {
   $(".sec-links .nav-link").click(function () {
     var aHref = $(this).attr("href");
