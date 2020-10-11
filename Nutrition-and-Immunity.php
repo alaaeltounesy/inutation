@@ -247,7 +247,7 @@ include 'share.php';
             <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                 <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                <a class="black mb-5" href="article">
+                <a class="black mb-5" href="Nutrition-During-Your-Pregnancy">
                     <h5 class="  mb-3 italic-light-m">
                         Nutrition During Your Pregnancy
 
@@ -255,7 +255,7 @@ include 'share.php';
                     <img alt="     Nutrition During Your Pregnancy" src="/images/post1.jpg" class="w-100 mb-5">
                 </a>
 
-                <a class="black mb-5" href="article3">
+                <a class="black mb-5" href="How-Food-Can-Affect-Your-Mood">
 
                     <h5 class="  mb-3 italic-light-m">
                         How Food Can Affect Your Mood

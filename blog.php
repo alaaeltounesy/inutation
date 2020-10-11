@@ -128,7 +128,7 @@ include 'share.php';
                     <!-- article nut sec-->
 
                     <div class="post mb-5">
-                        <a href="article" target="_blank" class="black">
+                        <a href="Nutrition-During-Your-Pregnancy.php" target="_blank" class="black">
                             <h4 class=" bold-m mb-5">
                                 Nutrition During Your Pregnancy
 
@@ -318,7 +318,7 @@ include 'share.php';
                     <!-- article nut sec-->
 
                     <div class="post mb-5">
-                        <a href="article2" target="_blank" class="black">
+                        <a href="Nutrition-and-Immunity" target="_blank" class="black">
                             <h4 class=" bold-m mb-5">
                                 Nutrition and Immunity
 
@@ -507,7 +507,7 @@ include 'share.php';
 
 
                     <div class="post mb-5">
-                        <a href="article3" target="_blank" class="black">
+                        <a href="How-Food-Can-Affect-Your-Mood" target="_blank" class="black">
                             <h4 class=" bold-m mb-5">
                                 How Food Can Affect Your Mood
 
@@ -614,13 +614,13 @@ include 'share.php';
             <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                 <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                <a class="black mb-5" target="_blank" href="article2">
+                <a class="black mb-5" target="_blank" href="Nutrition-and-Immunity">
                     <h5 class="  mb-3 italic-light-m">
                         Nutrition and Immunity
                     </h5>
                     <img alt=" Nutrition and Immunity posts " src="/images/post2.jpg" class="w-100 mb-5">
                 </a>
-                <a class="black mb-5" target="_blank" href="article3">
+                <a class="black mb-5" target="_blank" href="How-Food-Can-Affect-Your-Mood">
                     <h5 class="  mb-3 italic-light-m">
                         How Food Can Affect Your Mood
 

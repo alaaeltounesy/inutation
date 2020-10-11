@@ -246,7 +246,7 @@
                 <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                     <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                    <a class="black mb-5" href="article">
+                    <a class="black mb-5" href="Nutrition-During-Your-Pregnancy">
                         <h5 class="  mb-3 italic-light-m">
                             Nutrition During Your Pregnancy
 
@@ -255,7 +255,7 @@
                     </a>
 
 
-                    <a class="black mb-5" href="article2">
+                    <a class="black mb-5" href="Nutrition-and-Immunity">
 
                         <h5 class="  mb-3 italic-light-m">
                             Nutrition and Immunity

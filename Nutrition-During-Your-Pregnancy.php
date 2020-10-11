@@ -203,7 +203,7 @@ include 'share.php';
             <div class="col-xl-3 mt-4  col-lg-10 p-0 ">
                 <h4 class="pop-post mb-5 text-center SemiBold"> Popular Articles</h4>
 
-                <a class="black mb-5" href="article2">
+                <a class="black mb-5" href="Nutrition-and-Immunity">
                     <h5 class="  mb-3 italic-light-m">
 
                         Nutrition and Immunity
@@ -211,7 +211,7 @@ include 'share.php';
                     <img alt="  Nutrition and Immunity" src="/images/post2.jpg" class="w-100 mb-5">
                 </a>
 
-                <a class="black mb-5" href="article3">
+                <a class="black mb-5" href="How-Food-Can-Affect-Your-Mood">
 
                     <h5 class="  mb-3 italic-light-m">
                         How Food Can Affect Your Mood
