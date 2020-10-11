@@ -7,7 +7,7 @@
       "url": "https://www.inutrition4u.com/",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.google.com/search?q=%7Bsearch_term_string%7D+site%3Ainutrition4u.com",
+        "target": "https://www.inutrition4u.com/?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
