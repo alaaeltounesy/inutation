@@ -95,7 +95,6 @@ add life to your days!">
                 </div>
                 <div class=" col-xl-5  col-md-7 mt-5  mx-auto px-3 ">
                     <form class="form ajax contact-form" action="/mail.php" >
-                    <input type="text" name="bam"/>
                         <div class="form-group">
                             <label for="exampleInputName1">Name </label>
                             <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">

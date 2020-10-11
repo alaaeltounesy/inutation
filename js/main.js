@@ -27,9 +27,8 @@ cform.addEventListener("submit", function (e) {
   formData.forEach(function (value, key) {
     object[key] = value;
   });
-  var json = JSON.stringify(object);
 
-  postData("/mail.php", json).then(data => {
+  postData("/mail.php", object).then(data => {
     if (data) {
       $(this).children(".alert").show("show").delay(3000).hide("show");
       cform.reset();
