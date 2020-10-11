@@ -13,7 +13,9 @@
     <meta name="title" content="  Inutrition4u | About">
     <meta name="description" content=" Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family  ">
     <meta name="author" content="Rewardlion">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="  nutritionist ,dietitian ,wellbeing infancy ,healthcare ,dietician ,infancy stage ,infancy definition ,infancy age
+    
+    ">
     <meta property="og:title" content="  Inutrition4u | About">
     <meta property="og:description" content="Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant which makes her your best chance to take your health to a whole new level, and improve the overall lifestyle for you and your family">
     <meta name="twitter:card" content="summary_large_image">

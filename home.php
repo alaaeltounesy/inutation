@@ -6,15 +6,14 @@
         Inutrition4u | Home
     </title>
 
- 
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rewardlion">
-    <meta name="keywords" content="">
-
-    <meta name="title" content="Find the best version  of you today!">
-  <meta name="description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
-   <meta property="og:title" content="Find the best version  of you today!">
+    <meta name="keywords" content=" health , nutrition ,consultant ,diets  , weight , motherhood ,pregnancy , lactation , breastfeeding ,  best diet , the motherhood ,  breastfeeding breast">
+   <meta name="title" content="Find the best version  of you today!">
+    <meta name="description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
+    <meta property="og:title" content="Find the best version  of you today!">
     <meta property="og:description" content="Inutrition4u is my attempt to spread nutrition awareness to the world and help prevent obesity. Through my eight years of working at the Florida Department of Health, I have seen hundreds of cases of chronic diseases that could have been prevented by making the right food choices. It’s insane how 95% of all those diseases like type 2 diabetes, heart disease, and cancer could have been prevented through a good nutrition plan.">
     <meta name="twitter:card" content="summary_large_image">
     <meta property="og:site_name" content="Inutrition4u">
@@ -195,8 +194,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4"
-                             role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
+                            <a class="nav-link" data-zohlaa="330" id="pills-nut4-tab" data-toggle="pill" href="#pills-nut4" role="tab" aria-controls="pills-nut4" aria-selected="false">Prenatal, Pregnancy & Postpartum
                             </a>
                         </li>
                         <li class="nav-item">
