@@ -69,9 +69,9 @@ add life to your days!">
                     <img src="/images/img1-c.png" alt="Inutrition4u" class="w-100 ">
 
                 </div>
-                <div>
+            </div>
+        </div>
     </section>
-
     <section class="sec2-c py-5 px-lg-0 px-2">
         <div class="container-fluid w-85 py-5 ">
             <div class="row " style="border:2px solid black;">
@@ -94,7 +94,8 @@ add life to your days!">
                         You can send me all your inquiries, worries, or concerns, and I’ll know how to help you. </p>
                 </div>
                 <div class=" col-xl-5  col-md-7 mt-5  mx-auto px-3 ">
-                    <form class="form ajax" action="/mail.php" method="post">
+                    <form class="form ajax contact-form" action="/mail.php" >
+                    <input type="text" name="bam"/>
                         <div class="form-group">
                             <label for="exampleInputName1">Name </label>
                             <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">
@@ -104,16 +105,16 @@ add life to your days!">
                             <input type="email" name="email" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPhone"> Phone</label>
+                            <label for="exampleInputPhone">Phone</label>
                             <input name="phone" type="tel" required class="form-control" id="exampleInputPhone">
                         </div>
 
                         <div class="form-group">
-                            <label for="exampleInputFindme">How did you find me? </label>
+                            <label for="exampleInputFindme">How did you find me ?</label>
                             <input type="text" name="message1" class="form-control" id="exampleInputFindme" aria-describedby="FindmeHelp">
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputHelpyou">How can I help You ? </label>
+                            <label for="exampleInputHelpyou">How can I help You ?</label>
                             <textarea class="form-control" name="message2" id="exampleInputHelpyou" aria-describedby="HelpyouHelp" col="12" rows="5"></textarea>
                         </div>
                         <div class="form-group text-center">
