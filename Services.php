@@ -27,10 +27,10 @@
     <meta property="og:type" content="website">
     <meta property="og:image:width" content="1080">
     <meta property="og:image:height" content="600">
-    <meta property="og:image" content="https://www.inutrition4u.com/images/ser-h.png.png">
+    <meta property="og:image" content="https://www.inutrition4u.com/images/ser-h.png">
     <meta property="og:url" content="https://www.inutrition4u.com/Services">
 
-    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/ser-h.png.png">
+    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/ser-h.png">
 
 
 
