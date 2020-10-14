@@ -167,7 +167,7 @@
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
 
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
                 </div>
             </div>
@@ -184,9 +184,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                   
 
                 </div>
 
@@ -213,7 +213,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
 
                 </div>
@@ -231,9 +231,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                
 
                 </div>
 
@@ -263,7 +263,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
 
 
@@ -286,9 +286,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+               
 
 
                 </div>
@@ -318,7 +318,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
 
 
@@ -341,9 +341,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+               
 
 
 
@@ -370,7 +370,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
                 </div>
             </div>
@@ -390,9 +390,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+               
 
 
                 </div>
@@ -420,7 +420,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
 
 
                 </div>
@@ -439,9 +439,9 @@
                         </p>
                     </div>
 
-                    <a href="#" class=" col-xl-3 col-8">
-                        <button class="btn  btn-ser-h w-100"> START TODAY</button>
-                    </a>
+                    
+                        <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                
 
 
                 </div>
@@ -468,9 +468,9 @@
                 </p>
             </div>
 
-            <a href="#" class=" col-xl-3 col-8">
-                <button class="btn  btn-ser-g w-100"> START TODAY</button>
-            </a>
+            
+                <button class="btn scdform-btn  btn-ser-g w-100 col-xl-3 col-8"> START TODAY</button>
+           
 
         </div>
     </div>

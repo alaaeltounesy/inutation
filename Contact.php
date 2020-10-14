@@ -95,7 +95,7 @@ add life to your days!">
                 </div>
                 <div class=" col-xl-5  col-md-7 mt-5  mx-auto px-3 ">
                     <form class="form ajax contact-form" action="/mail.php" >
-                        <div class="form-group">
+                        <div class="form-group ">
                             <label for="exampleInputName1">Name </label>
                             <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">
                         </div>
@@ -119,6 +119,7 @@ add life to your days!">
                         <div class="form-group text-center">
                             <button type="submit" class="btn col-lg-5 submit-form-btn col-6 py-2 mx-auto my-4 text-center sent-btn">SEND</button>
                         </div>
+                        <input name="subject" type="hidden" value="Message From Web Site">
                         <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
                             Thank you for reaching out to us, we will get back to you as soon as possible!
                         </div>
@@ -160,7 +161,8 @@ add life to your days!">
 
                 <div class="  col-md-6 col-xl-5  p-0 my-md-5 my-3">
 
-                    <a target="_black" class="italic-SemiBold black mt-5" href="mailto:shadia.hamadeh@gmail.com">
+                    <a target="_black" class="italic-SemiBold black mt-5"
+                     href="mailto:info@inutrition4u.com">
                         <img src="/images/mail.svg" class="mr-lg-4 mr-2">shadia.hamadeh</a>
                 </div>
             </div>

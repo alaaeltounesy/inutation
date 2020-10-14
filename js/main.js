@@ -19,27 +19,35 @@ async function postData(url = '', data = {}) {
   });
   return response.json(); // parses JSON response into native JavaScript objects
 }
-const cform = document.querySelector(".contact-form");
-if (cform)
-  cform.addEventListener("submit", function (e) {
-    e.preventDefault();
-    const formData = new FormData(cform);
-    var object = {};
-    formData.forEach(function (value, key) {
-      object[key] = value;
-    });
+//const cform = document.querySelector(".contact-form");
 
-    postData("/mail.php", object).then(data => {
-      if (data === true) {
-        
-        $(this).children(".alert").show("show").delay(3000).hide("show");
-        cform.reset();
-      } else {
 
-      }
-      console.log(data);
-    });
+
+
+$(".contact-form").submit(function (e) {
+
+  // cform.addEventListener("submit", function (e) {
+  e.preventDefault();
+  const formData = new FormData(this);
+  var object = {};
+  formData.forEach(function (value, key) {
+    object[key] = value;
   });
+
+  postData("/mail.php", object).then(data => {
+    if (data === true) {
+
+      $(this).children(".alert").show("show").delay(1000).hide(function () {
+        $(' .popup ').fadeOut('slow');
+        $(' .overlay ').fadeOut('slow');
+      });
+      this.reset();
+    } else {
+
+    }
+    console.log(data);
+  });
+});
 $(document).ready(function () {
   $(".sec-links .nav-link").click(function () {
     var aHref = $(this).attr("href");
@@ -161,4 +169,12 @@ if (document.getElementById("face-btn")) {
 }
 
 
+$(".scdform-btn").click(function () {
+  $(' .popup ').fadeIn('slow');
+  $(' .overlay ').fadeIn('slow');
+});
+$(".over2").click(function () {
+  $(".popup ").hide(1000);
+  $(".overlay ").hide(1000);
+});
 
