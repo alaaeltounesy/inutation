@@ -135,7 +135,36 @@ add life to your days!">
                 </div>
 
             </div>
+            <div class="row social-contact col-xl-6 col-md-9 col-10 mx-auto justify-content-center p-0  mt-5">
+                <div class="   col-md-6 col-xl-5  p-0 my-md-5 my-3">
 
+                    <a target="_black" class="italic-SemiBold black mt-5" href="https://www.facebook.com/ShadiaHamadeh/">
+                        <img src="/images/facebook.svg" class="mr-lg-4 mr-2">inutrition4u</a>
+                </div>
+
+                <div class="   col-xl-2 d-xl-block d-none"></div>
+
+
+                <div class="  col-md-6 col-xl-5  p-0 my-md-5 my-3">
+
+                    <a target="_black" class="italic-SemiBold black mt-5" href="https://instagram.com/inutrition4u?igshid=bpedptz2dhqb">
+                        <img src="/images/insta.svg" class="mr-lg-4 mr-2">inutrition4u</a>
+                </div>
+
+                <div class="   col-md-6 col-xl-5  p-0 my-md-5 my-3">
+
+                    <a target="_black" class="italic-SemiBold black mt-5" href="https://www.linkedin.com/in/shadia-hamadeh-ms-rdn-ldn-clc-07b3a341/">
+                        <img src="/images/linkedin.svg" class="mr-lg-4 mr-2">Shadia Hamadeh</a>
+                </div>
+                <div class="   col-xl-2  d-xl-block d-none"></div>
+
+                <div class="  col-md-6 col-xl-5  p-0 my-md-5 my-3">
+
+                    <a target="_black" class="italic-SemiBold black mt-5" href="mailto:shadia.hamadeh@gmail.com">
+                        <img src="/images/mail.svg" class="mr-lg-4 mr-2">shadia.hamadeh</a>
+                </div>
+            </div>
+        </div>
     </section>
 
     <?php

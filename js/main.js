@@ -26,14 +26,14 @@ cform.addEventListener("submit", function (e) {
   var object = {};
   formData.forEach(function (value, key) {
     object[key] = value;
-  });
+  }); 
 
   postData("/mail.php", object).then(data => {
     if (data) {
       $(this).children(".alert").show("show").delay(3000).hide("show");
       cform.reset();
     } else {
-
+  
     }
     console.log(data);
   });

@@ -410,7 +410,7 @@
                             Prenatal, Pregnancy & Lactation
                         </h2>
                         <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-                            Your and your baby’s health are precious and in need of frequent monitoring. 
+                            You and your baby’s health are precious and in need of frequent monitoring. 
                             <br>
                        
                             let us provide you with guidance and nutrition education for a healthy baby.
