@@ -7,7 +7,7 @@
       "url": "https://www.inutrition4u.com/",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.google.com/search?q=%7Bsearch_term_string%7D+site%3Ainutrition4u.com",
+        "target": "https://www.inutrition4u.com/?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/style.min.css?v=1"  type="text/css" media="" />
 
 <meta name="theme-color" content="#F1F9F1">
     <link rel="apple-touch-icon" sizes="152x152" href="/appicons/android-chrome-512x512.png">

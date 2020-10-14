@@ -18,4 +18,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     else
         $res = false;
 }
-echo json_encode($body);
+echo json_encode($res);

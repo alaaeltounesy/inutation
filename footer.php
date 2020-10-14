@@ -78,7 +78,8 @@
 <script src="https://unpkg.com/imagesloaded@4.1.4/imagesloaded.pkgd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/CSSPlugin.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/TextPlugin.min.js"></script>
-<script src="/js/main.js?v=1.3"></script>
+<script src="/js/main.min.js?v=1.4"></script>
+<script defer src="https://www.rewardlion.com/cdn/js/rl-1.0/rewardlion.min.js"></script>
 
 </body>
 

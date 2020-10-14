@@ -128,7 +128,7 @@ include 'share.php';
                     <!-- article nut sec-->
 
                     <div class="post mb-5">
-                        <a href="Nutrition-During-Your-Pregnancy.php" target="_blank" class="black">
+                        <a href="Nutrition-During-Your-Pregnancy" target="_blank" class="black">
                             <h4 class=" bold-m mb-5">
                                 Nutrition During Your Pregnancy
 

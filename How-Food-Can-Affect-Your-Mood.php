@@ -23,7 +23,7 @@
     <meta property="og:image:width" content="1080">
     <meta property="og:image:height" content="600">
     <meta property="og:image" content="https://www.inutrition4u.com/images/post3.jpg">
-    <meta property="og:url" content="https://www.inutrition4u.com/article3">
+    <meta property="og:url" content="https://www.inutrition4u.com/How-Food-Can-Affect-Your-Mood">
 
     <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/post3.jpg">
 
@@ -45,7 +45,7 @@
 
 
                             <div class="col-6 p-0 text-left">
-                                <a class="black" href="blog" style="color:black;">
+                                <a class="black" href="Blog" style="color:black;">
                                
                                     <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="14.793" height="12.328" viewBox="0 0 14.793 12.328">
   <path id="arrow_3_" data-name="arrow (3)" d="M22.177,17.547H9.88l4.708-4.485a.616.616,0,0,0-.85-.893L8.361,17.292a1.232,1.232,0,0,0,.011,1.754l5.367,5.112a.616.616,0,1,0,.85-.893L9.861,18.78H22.177a.616.616,0,0,0,0-1.233Z" transform="translate(-8 -12)"/>
