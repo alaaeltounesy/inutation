@@ -36,9 +36,13 @@ $(".contact-form").submit(function (e) {
 
   postData("/mail.php", object).then(data => {
     if (data === true) {
-
-      $(this).children(".alert").show("show").delay(1000).hide(function () {
+      $(' .popup .form-group').hide("slow",function () {
+      $('.popup .alert').fadeToggle();
+   
+    });
+      $(this).children(".alert").show("show").delay(4000).hide(function () {
         $('.popup ').fadeOut('slow');
+     
         $('.overlay ').fadeOut('slow');
       });
       this.reset();
@@ -170,6 +174,7 @@ if (document.getElementById("face-btn")) {
 
 
 $(".scdform-btn").click(function () {
+  $('.popup .form-group').fadeIn('slow');
   $(' .popup ').fadeIn('slow');
   $(' .overlay ').fadeIn('slow');
 });

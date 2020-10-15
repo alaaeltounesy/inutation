@@ -7,13 +7,15 @@
         </div>
       </div>
       <div class="col-lg-8 px-lg-0 px-4">
-        <form class="form ajax" action="/mail.php">
+        <form class="form contact-form ajax" action="/mail.php">
+        <input name="subject" type="hidden" value="newsletter subscription">
           <div class="row mx-0 justify-content-center">
             <div class="col-lg-6 px-lg-0 px-4">
               <div class="form-group mb-lg-2">
                 <label class="text-left" for="exampleInputname">Name</label>
                 <input name="name" type="text" required class="form-control" id="exampleInputname" aria-describedby="nameHelp">
               </div>
+           
               <div class="form-group mb-lg-0">
                 <label class="text-left" for="exampleInputEmail1">E-mail</label>
                 <input name="email" type="email" required class="form-control" id="exampleInputEmail1">
@@ -78,7 +80,7 @@
 <script src="https://unpkg.com/imagesloaded@4.1.4/imagesloaded.pkgd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/CSSPlugin.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/TextPlugin.min.js"></script>
-<script src="/js/main.min.js?v=1.5"></script>
+<script src="/js/main.min.js?v=1.6"></script>
 <script defer src="https://www.rewardlion.com/cdn/js/rl-1.0/rewardlion.min.js"></script>
 
 </body>

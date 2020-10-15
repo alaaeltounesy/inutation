@@ -75,7 +75,7 @@ add life to your days!">
     <section class="sec2-c py-5 px-lg-0 px-2">
         <div class="container-fluid w-85 py-5 ">
             <div class="row " style="border:2px solid black;">
-                <div class="col-lg-12  text-center">
+                <div class="col-lg-12 px-xl-2 px-3  text-center">
                     <h1 CLass="SemiBold d-md-block d-none head-get">
                         GET IN TOUCH
                     </h1>
@@ -85,6 +85,7 @@ add life to your days!">
                     <h4 CLass="SemiBold mb-5">
                         Are you striving for a healthy lifestyle in smooth, simple steps?
                         <br>
+                        <br class="d-xl-none d-block">
                         Did you try diets before and they did not work out for you?
                         <br>
 

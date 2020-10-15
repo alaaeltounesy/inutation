@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<link rel="stylesheet" href="/css/style.min.css?v=1.1" type="text/css" media="" />
+<link rel="stylesheet" href="/css/style.min.css?v=1.2" type="text/css" media="" />
 
 <meta name="theme-color" content="#F1F9F1">
 <link rel="apple-touch-icon" sizes="152x152" href="/appicons/android-chrome-512x512.png">
@@ -126,7 +126,7 @@
     </div>
    
     <div class="popup p-lg-5  p-4 col-xl-6">
-        <h1 class="mb-5 text-center">
+        <h1 class="mb-5 text-center head-pop">
           MEET <SPAN class="SemiBold"> SHADIA</SPAN>
         </h1>
                           <form class="form ajax contact-form" action="/mail.php" >
@@ -161,8 +161,8 @@
 
                       
                           </div>
-                          <input name="subject" type="hidden" value="Message From Web Site">
-                        <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
+                          <input name="subject" type="hidden" value="Appointment">
+                        <div class="alert text-capitalize  mb-5 mx-auto px-5 text-center" role="alert">
                             Thank you for reaching out to us, we will get back to you as soon as possible!
                         </div>
                     </form>
