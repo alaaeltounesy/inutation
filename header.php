@@ -130,35 +130,38 @@
           MEET <SPAN class="SemiBold"> SHADIA</SPAN>
         </h1>
                           <form class="form ajax contact-form" action="/mail.php" >
-                        <div class="form-group">
+
+                          <div class="row">
+                            
+                        <div class="form-group col-xl-6">
                             <label for="exampleInputName1">Name </label>
                             <input type="text" name="name" required class="form-control" id="exampleInputName1" aria-describedby="NameHelp">
                         </div>
-                        <div class="form-group">
+                        <div class="form-group col-xl-6">
             <label for="exampleInputAge">Age</label>
             <input type="number" name="Age" class="form-control" id="exampleInputAge" aria-describedby="AgeHelp">
           </div>
-                        <div class="form-group">
+                        <div class="form-group col-xl-6">
                             <label for="exampleInputEmail1">Email </label>
                             <input type="email" name="email" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                         </div>
-                        <div class="form-group">
+                        <div class="form-group col-xl-6">
                             <label for="exampleInputPhone">Phone</label>
                             <input name="phone" type="tel" required class="form-control" id="exampleInputPhone">
                         </div>
 
-                        <div class="form-group">
-                            <label for="exampleInputFindme">How did you find me ?</label>
-                            <input type="text" name="message1" class="form-control" id="exampleInputFindme" aria-describedby="FindmeHelp">
-                        </div>
-                        <div class="form-group">
+
+                        <div class="form-group col-12">
                             <label for="exampleInputHelpyou">How can I help You ?</label>
                             <textarea class="form-control" name="message2" id="exampleInputHelpyou" aria-describedby="HelpyouHelp" col="12" rows="5"></textarea>
                         </div>
-                        <div class="form-group text-center">
+                        <div class="form-group text-center col-md-7 col-10 mx-auto">
                             <button type="submit" class="btn col-lg-5 submit-form-btn col-6 py-2 mx-auto my-4 text-center sent-btn">SEND</button>
                         </div>
-                        <input name="subject" type="hidden" value="Message From Web Site">
+
+                      
+                          </div>
+                          <input name="subject" type="hidden" value="Message From Web Site">
                         <div class="alert text-capitalize  alert-success my-lg-5 mx-auto px-5 text-center" role="alert">
                             Thank you for reaching out to us, we will get back to you as soon as possible!
                         </div>

@@ -7,7 +7,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     
     $message .= "Name : " . $body['name'] . "\r\n";
     $message .= "Email : " . $body['email'] . "\r\n";
+    if(isset($body['message1']))
     $message .= "How did you find me?  " . $body['message1'] . "\r\n";
+    if(isset($body['Age']))
+    $message .= "Age :  " . $body['Age'] . "\r\n";
     $message .= "Message : " . $body['message2'] . "\r\n";;
     $message = wordwrap($message, 70, "\r\n");
     $headers = 'From: ' . $body['email'] . "\r\n" .

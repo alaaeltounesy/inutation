@@ -38,8 +38,8 @@ $(".contact-form").submit(function (e) {
     if (data === true) {
 
       $(this).children(".alert").show("show").delay(1000).hide(function () {
-        $(' .popup ').fadeOut('slow');
-        $(' .overlay ').fadeOut('slow');
+        $('.popup ').fadeOut('slow');
+        $('.overlay ').fadeOut('slow');
       });
       this.reset();
     } else {
