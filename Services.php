@@ -51,11 +51,7 @@
                         <a class="nav-link " href="#Diabetes"> Diabetes, Pre-Diabetes,
                             Gestational Diabetes</a>
                     </button>
-                    <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
-                        <a class="nav-link" href="#Chronic-Condition "> Chronic Condition
-                            Prevention & Management
-                        </a>
-                    </button>
+                   
                     <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
                         <a class="nav-link" href="#Weight-Management"> Weight Management Plan</a>
 
@@ -67,10 +63,7 @@
                         <a class="nav-link" href="#Meal-Planning"> Meal Planning</a>
 
                     </button>
-                    <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
-                        <a class="nav-link" href="#Health-Wellness">Health & Wellness </a>
-
-                    </button>
+                    
 
                     <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
                         <a class="nav-link" href="#Prenatal-Pregnancy">Prenatal, Pregnancy &
@@ -78,6 +71,16 @@
 
                         </a>
                     </button>
+                    <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
+                        <a class="nav-link" href="#Health-Wellness">Health & Wellness </a>
+
+                    </button>
+                    <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
+                        <a class="nav-link" href="#Chronic-Condition "> Chronic Condition
+                            Prevention & Management
+                        </a>
+                    </button>
+
                 </div>
 
             </div>
@@ -162,7 +165,7 @@
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
 
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
 
                 </div>
             </div>
@@ -195,62 +198,7 @@
             </div>
         </div>
 
-        <div class="cardser2 cardser  w-85  " id="Chronic-Condition">
-            <div class="container-fluid  fade-s  py-md-5 py-5  mt-5 s2">
-                <div class="row py-lg-5 text-center justify-content-center">
-
-
-                    <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3 SemiBold">
-                            Chronic condition prevention & Management
-
-                        </h2>
-                        <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-
-                            Don't let sickness hold you and your family back. Get the exact plan you need to fight your health condition, and achieve more.
-                        </p>
-                    </div>
-                    <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
-                        <button class="btn  btn-ser w-100"> START TODAY</button>
-                    </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
-
-
-                </div>
-            </div>
-
-            <div class="container-fluid    py-md-5 py-5  mt-5 s-h  s2-h">
-                <div class="row py-lg-5 text-center justify-content-center ">
-
-                    <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3  SemiBold">
-
-                            Chronic Disease
-                        </h2>
-                        <p class="mb-lg-5 mb-3  text px-xl-5 px-md-3 px-2">
-
-
-                            High cholesterol levels, high blood pressure, heart diseases, cancer, and many more chronic
-                            diseases could be controlled; through a precise dietary plan. Good nutrition is the necessary key
-                            for long and healthy life. Adopt (incorporate, embrace) a healthy nutritional lifestyle with a customized
-                            nutrition plan.
-                        </p>
-                    </div>
-
-
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
-
-
-                </div>
-
-
-
-            </div>
-        </div>
-
-
-
-
+ 
         <div class="cardser3 cardser  w-85 " id="Weight-Management">
 
             <div class="container-fluid   py-md-5 py-5  fade-s   mt-5 s3">
@@ -270,7 +218,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
 
 
 
@@ -324,7 +272,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
 
                 </div>
             </div>
@@ -349,63 +297,7 @@
             </div>
 
         </div>
-
-
-        <div class="cardser5 cardser  w-85" id="Health-Wellness">
-            <div class="container-fluid   py-md-5 py-5  fade-s   mt-5 s5">
-                <div class="row py-lg-5 text-center justify-content-center">
-
-                    <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3 SemiBold">
-                            Health & Wellness
-
-                        </h2>
-                        <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-                        You don’t need to have any existing weight or health problems to want to live 
-                        a better life. You can always better yourself to achieve optimum health in your 
-                        life .
-                        
-
-                        
-                    </div>
-
-                    <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
-                        <button class="btn  btn-ser w-100"> START TODAY</button>
-                    </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
-
-
-
-                </div>
-            </div>
-            <div class="container-fluid s-h    py-md-5 py-5 mt-5 s5-h">
-                <div class="row py-lg-5 text-center justify-content-center">
-
-                    <div class="col-lg-10 col-12 p-lg-0">
-                        <h2 class="mb-3 SemiBold">
-                            Health & Wellness
-                        </h2>
-                        <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
-
-                        Through individualized coaching, food psychology, clinical nutrition,
-                            science-based testing, and a mind/body approach to health, we will work
-                            with you to craft your nutritional plan to transform your health and your life.
-
-                        </p>
-                    </div>
-
-
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
-
-
-
-
-                </div>
-            </div>
-
-        </div>
-
-
+<!--preanacy-->
 
         <div class="cardser4 cardser w-85 " id="Prenatal-Pregnancy">
             <div class="container-fluid py-md-5 py-5 fade-s mt-5 s4">
@@ -429,7 +321,7 @@
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
                         <button class="btn  btn-ser w-100"> START TODAY</button>
                     </a>
-                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  scdform-btn learn-more "> learn more</button>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
 
 
                 </div>
@@ -463,6 +355,113 @@
             </div>
 
         </div>
+        <!--heath -->
+        <div class="cardser5 cardser  w-85" id="Health-Wellness">
+            <div class="container-fluid   py-md-5 py-5  fade-s   mt-5 s5">
+                <div class="row py-lg-5 text-center justify-content-center">
+
+                    <div class="col-lg-10 col-12 p-lg-0">
+                        <h2 class="mb-3 SemiBold">
+                            Health & Wellness
+
+                        </h2>
+                        <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
+                        You don’t need to have any existing weight or health problems to want to live 
+                        a better life. You can always better yourself to achieve optimum health in your 
+                        life .
+                        
+
+                        
+                    </div>
+
+                    <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
+                        <button class="btn  btn-ser w-100"> START TODAY</button>
+                    </a>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
+
+
+
+                </div>
+            </div>
+            <div class="container-fluid s-h    py-md-5 py-5 mt-5 s5-h">
+                <div class="row py-lg-5 text-center justify-content-center">
+
+                    <div class="col-lg-10 col-12 p-lg-0">
+                        <h2 class="mb-3 SemiBold">
+                            Health & Wellness
+                        </h2>
+                        <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
+
+                        Through individualized coaching, food psychology, clinical nutrition,
+                            science-based testing, and a mind/body approach to health, we will work
+                            with you to craft your nutritional plan to transform your health and your life.
+
+                        </p>
+                    </div>
+
+
+                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+
+
+
+
+                </div>
+            </div>
+
+        </div>
+        <div class="cardser2 cardser  w-85  " id="Chronic-Condition">
+            <div class="container-fluid  fade-s  py-md-5 py-5  mt-5 s2">
+                <div class="row py-lg-5 text-center justify-content-center">
+
+
+                    <div class="col-lg-10 col-12 p-lg-0">
+                        <h2 class="mb-3 SemiBold">
+                            Chronic condition prevention & Management
+
+                        </h2>
+                        <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
+
+                            Don't let sickness hold you and your family back. Get the exact plan you need to fight your health condition, and achieve more.
+                        </p>
+                    </div>
+                    <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
+                        <button class="btn  btn-ser w-100"> START TODAY</button>
+                    </a>
+                    <button class="col-xl-3 d-xl-none d-block col-8 btn  btn-ser  learn-more "> learn more</button>
+
+
+                </div>
+            </div>
+
+            <div class="container-fluid    py-md-5 py-5  mt-5 s-h  s2-h">
+                <div class="row py-lg-5 text-center justify-content-center ">
+
+                    <div class="col-lg-10 col-12 p-lg-0">
+                        <h2 class="mb-3  SemiBold">
+
+                            Chronic Disease
+                        </h2>
+                        <p class="mb-lg-5 mb-3  text px-xl-5 px-md-3 px-2">
+
+
+                            High cholesterol levels, high blood pressure, heart diseases, cancer, and many more chronic
+                            diseases could be controlled; through a precise dietary plan. Good nutrition is the necessary key
+                            for long and healthy life. Adopt (incorporate, embrace) a healthy nutritional lifestyle with a customized
+                            nutrition plan.
+                        </p>
+                    </div>
+
+
+                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+
+
+                </div>
+
+
+
+            </div>
+        </div>
+
 
     </section>
 
