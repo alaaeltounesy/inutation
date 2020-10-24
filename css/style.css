@@ -815,3 +815,13 @@ z-index: 9999999;
     background-color: #000;
    color:#FFF0EC;
 }
+@media(max-width:768px){
+    .social-contact {
+text-align: center;
+    }
+}
+@media (min-width: 1000px){
+    .social-contact{
+        padding-left: 4rem;
+    }
+}
