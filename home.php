@@ -101,7 +101,7 @@
                 </div>
 
                 <div class="col-lg-6 ">
-                    <img alt="nutrition dr-shadia" src="/images/dr-shadia.png" class="w-100 ">
+                    <img alt="nutrition dr-shadia" src="/images/shadia.png" class="w-100 ">
 
 
                 </div>

@@ -24,10 +24,10 @@
     <meta property="og:type" content="website">
     <meta property="og:image:width" content="1080">
     <meta property="og:image:height" content="600">
-    <meta property="og:image" content="https://www.inutrition4u.com/images/dr-shadia.png">
+    <meta property="og:image" content="https://www.inutrition4u.com/images/shadia.png">
     <meta property="og:url" content="https://www.inutrition4u.com/About">
 
-    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/dr-shadia.png">
+    <meta name="twitter:image:alt" content="https://www.inutrition4u.com/images/shadia.png">
 
 
 
@@ -88,7 +88,7 @@
 
                 <div class="col-lg-6  ">
 
-                    <img alt=" nutrition dr-shadia" src="/images/dr-shadia.png" class="w-100">
+                    <img alt=" nutrition dr-shadia" src="/images/shadia.png" class="w-100">
 
                 </div>
                 <div>
