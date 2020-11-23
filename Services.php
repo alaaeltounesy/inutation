@@ -51,7 +51,7 @@
                         <a class="nav-link " href="#Diabetes"> Diabetes, Pre-Diabetes,
                             Gestational Diabetes</a>
                     </button>
-                   
+
                     <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
                         <a class="nav-link" href="#Weight-Management"> Weight Management Plan</a>
 
@@ -63,7 +63,7 @@
                         <a class="nav-link" href="#Meal-Planning"> Meal Planning</a>
 
                     </button>
-                    
+
 
                     <button class="nav-item col-xl-2 col-lg-6  col-md-8 my-xl-0 my-3">
                         <a class="nav-link" href="#Prenatal-Pregnancy">Prenatal, Pregnancy &
@@ -179,16 +179,13 @@
                         </h2>
                         <p class="mb-lg-5 mb-3   text px-xl-5 px-md-3 px-2">
 
-
-
-
-
                             Don’t get overwhelmed by the number of medications, and complex diet plans. Let an expert help you create a balanced meal plan, regulate your blood glucose levels, control your blood pressure, and prevent the development of diabetes-related health issues.
                         </p>
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser=" Diabetes, pre-diabetes, Gestational diabetes" class="btn 
+                      scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
                 </div>
@@ -198,7 +195,7 @@
             </div>
         </div>
 
- 
+
         <div class="cardser3 cardser  w-85 " id="Weight-Management">
 
             <div class="container-fluid   py-md-5 py-5  fade-s   mt-5 s3">
@@ -240,7 +237,7 @@
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser="Weight Management Plan" class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
 
@@ -289,7 +286,7 @@
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser=" Meal Planning" class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
 
@@ -297,7 +294,7 @@
             </div>
 
         </div>
-<!--preanacy-->
+        <!--preanacy-->
 
         <div class="cardser4 cardser w-85 " id="Prenatal-Pregnancy">
             <div class="container-fluid py-md-5 py-5 fade-s mt-5 s4">
@@ -347,7 +344,7 @@
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser="   Prenatal, Pregnancy & Lactation" class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
 
@@ -366,12 +363,12 @@
 
                         </h2>
                         <p class="mb-lg-5 mb-3 black text px-xl-5 px-md-3 px-2">
-                        You don’t need to have any existing weight or health problems to want to live 
-                        a better life. You can always better yourself to achieve optimum health in your 
-                        life .
-                        
+                            You don’t need to have any existing weight or health problems to want to live
+                            a better life. You can always better yourself to achieve optimum health in your
+                            life .
 
-                        
+
+
                     </div>
 
                     <a href="#" class=" col-xl-3 d-xl-block d-none col-8">
@@ -392,7 +389,7 @@
                         </h2>
                         <p class="mb-lg-5 mb-3 text px-xl-5 px-md-3 px-2">
 
-                        Through individualized coaching, food psychology, clinical nutrition,
+                            Through individualized coaching, food psychology, clinical nutrition,
                             science-based testing, and a mind/body approach to health, we will work
                             with you to craft your nutritional plan to transform your health and your life.
 
@@ -400,7 +397,7 @@
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser="   Health & Wellness" class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
 
@@ -452,7 +449,7 @@
                     </div>
 
 
-                    <button class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
+                    <button data-ser="  Chronic condition prevention & Management " class="btn   scdform-btn btn-ser-h col-xl-3 col-8"> START TODAY</button>
 
 
                 </div>
@@ -482,7 +479,7 @@
             </div>
 
 
-            <button class="btn scdform-btn  btn-ser-g w-100 col-xl-3 col-8"> START TODAY</button>
+            <button data-ser="Free consultation sessions" class="btn scdform-btn  btn-ser-g w-100 col-xl-3 col-8"> START TODAY</button>
 
 
         </div>

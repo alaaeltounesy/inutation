@@ -300,8 +300,8 @@
             </div>
         </div>
     </section>
-    <section class="sec5 py-lg-5">
-        <div class="container-fluid w-80 mx-auto py-lg-5">
+    <section class="sec5 pb-lg-5">
+        <div class="container-fluid w-80 mx-auto pb-lg-5">
 
             <div class="row text-center justify-content-center">
                 <div class="col-xl-10">

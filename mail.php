@@ -4,11 +4,14 @@ $message = "";
 $input = file_get_contents('php://input');
 $body = json_decode($input, true);
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $subject = $body['subject'];
+
+    $services = "";
+    if (isset($body['services']))
+        $services = " for " . $body['services'];
+
+    $subject = $body['subject'].$services;
     if (isset($body['name']))
         $message .= "Name : " . $body['name'] . "\r\n";
-
-
 
     if (isset($body['phone']))
         $message .= "phone : " . $body['phone'] . "\r\n";

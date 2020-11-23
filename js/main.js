@@ -174,6 +174,9 @@ if (document.getElementById("face-btn")) {
 
 
 $(".scdform-btn").click(function () {
+  var y = $(this).data('ser');
+    $(".ser-subject").value = y;
+    console.log(y);
   $('.popup .form-group').fadeIn('slow');
   $(' .popup ').fadeIn('slow');
   $(' .overlay ').fadeIn('slow');

@@ -162,6 +162,7 @@
                       
                           </div>
                           <input name="subject" type="hidden" value="Appointment">
+                          <input class="ser-subject" name="services" type="hidden" value="">
                         <div class="alert text-capitalize  mb-5 mx-auto px-5 text-center" role="alert">
                             Thank you for reaching out to us, we will get back to you as soon as possible!
                         </div>
