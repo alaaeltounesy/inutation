@@ -64,7 +64,8 @@
                         </h1>
                         <h3 class="mb-5 italic-med"> founder and CEO of inutrition4u </h3>
                         <p class="my-lg-5 my-3 italic-light-m " style="font-size:18px;">
-                            Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant, which makes her your best chance to take your health to a whole new level and improve the overall lifestyle for you and your family.
+                            Shadia is a one-of-a-kind nutritionist wh
+                            o has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant, which makes her your best chance to take your health to a whole new level and improve the overall lifestyle for you and your family.
 
                             <br>
                             <br>
@@ -122,8 +123,13 @@
 
 
                         <p class=" italic-light-m col-12 " style="font-size:18px">
-                            The main reason I chose to become a nutrition professional was my son Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge of; I have always been willing to do anything to ensure his well-being. Since he was young, I have been working with a team consisting of several doctors and a dietitian to manage Ali’s condition. I am very thankful that I chose this field and was able to make a positive impact on his life.
-                        </p>
+                        Your body’s health reflects what you put in it. Nowadays,
+                         many people’s diets consist of more saturated fat, trans fats, sugar, 
+                         and more sodium than fruits and vegetables and dietary fiber which increase the risk of 
+                         developing health conditions like cancer, heart disease, and stroke. The reason I chose to become a
+                          nutrition professional is my passion to help others to manage a healthy weight, to reduce the
+                           risk of chronic diseases, to delay the effects of aging, and to live a quality life.
+                         </p>
 
 
                     </div>
@@ -398,8 +404,7 @@
                         <p class=" italic-light-m col-12 " style="font-size:18px;">
 
 
-                            The main reason I chose to become a nutrition professional was my son Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge of; I have always been willing to do anything to ensure his well-being. Since he was young, I have been working with a team consisting of several doctors and a dietitian to manage Ali’s condition. I am very thankful that I chose this field and was able to make a positive impact on his life.
-                        </p>
+                        Your body’s health reflects what you put in it. Nowadays, many people’s diets consist of more saturated fat, trans fats, sugar, and more sodium than fruits and vegetables and dietary fiber which increase the risk of developing health conditions like cancer, heart disease, and stroke. The reason I chose to become a nutrition professional is my passion to help others to manage a healthy weight, to reduce the risk of chronic diseases, to delay the effects of aging, and to live a quality life.</p>
 
 
                     </div>

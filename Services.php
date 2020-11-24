@@ -443,7 +443,7 @@
 
                             High cholesterol levels, high blood pressure, heart diseases, cancer, and many more chronic
                             diseases could be controlled; through a precise dietary plan. Good nutrition is the necessary key
-                            for long and healthy life. Adopt (incorporate, embrace) a healthy nutritional lifestyle with a customized
+                            for long and healthy life. Adopt a healthy nutritional lifestyle with a customized
                             nutrition plan.
                         </p>
                     </div>

@@ -86,17 +86,16 @@
                             MEET <SPAN class="SemiBold"> SHADIA</SPAN>
                         </h1>
                         <h5 class=" Regular">
-                            A Registered Dietitian and a Certified Lactation Consultant
-
+                        A Registered Dietitian and a Certified Lactation Consultant
                         </h5>
                         <h5 class="Regular  my-3">
-                            MS, RDN, LDN, CLC
+                        MS, RDN, LDN, CLC
                         </h5>
 
                         </h5>
                         <h5 class="mb-5 italic-light-m">
-                            The main reason I chose to become a nutrition professional was my son, Ali. Ali was born with a rare metabolic disorder that doctors had little knowledge of; due to my experience with this healthcare team, I recognized that nutrition was an essential part of every person’s life. That motivated me to enroll in the Florida International University, where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL. </h5>
-
+                        Nutrition is an essential part of every person’s life. A healthy diet prevents malnutrition and protects from chronic diseases such as obesity, diabetes, and heart disease. This motivated me to enroll in the Florida International University, where I earned a Bachelor of Science. But I didn’t stop there. I went on to acquire a master’s degree in Dietetics and Nutrition from Florida International University in Miami, FL.
+                        </h5>
                     </div>
                 </div>
 

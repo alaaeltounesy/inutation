@@ -326,7 +326,7 @@
                                 <img alt="  Nutrition and Immunity" src="images/post2.jpg" class="w-100 mb-5">
 
                                 <h5 class="  mb-5 italic-light-m">
-                                    Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? Even though there is no real scientific evidence that our life choices directly impact the strength of our immune system, observations have been made that some lifestyles can weaken or strengthen it. A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
+                                    Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter?  A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
                                 </h5>
                             </a>
                             <!--social post moble-->
@@ -516,7 +516,7 @@
                                 <img alt="  How Food Can Affect Your Mood" src="images/post3.jpg" class="w-100 mb-5">
 
                                 <h5 class="  mb-5 italic-light-m">
-                                    Researchers lately have noticed a connection between what we eat and how we feel. There is still no direct scientific discovery yet, but the clues cannot be ignored. Since our brains’ functionality is dependent on the burning of food, researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically, and physiologically. Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.
+                                    Researchers lately have noticed a connection between what we eat and how we feel.Researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically, and physiologically. Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.
                                 </h5>
                             </a>
                             <!--social post moble-->

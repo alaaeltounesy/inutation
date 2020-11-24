@@ -73,7 +73,7 @@
 
                             <h5 class="  mb-5 italic-light-m">
 
-                                Researchers lately have noticed a connection between what we eat and how we feel. There is still no direct scientific discovery yet, but the clues cannot be ignored. Since our brains’ functionality is dependent on the burning of food, researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically, and physiologically. Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.
+                                Researchers lately have noticed a connection between what we eat and how we feel.Researchers have noticed that the kinds of food we eat can have an impact on our brains’ structure, chemically, and physiologically. Serotonin is a neurotransmitter that helps regulate sleep, appetite, and mood. Serotonin is produced in the gastrointestinal tract, so what we eat does not only affect our digestive system but also this neurotransmitter, which affects our receptivity to some key functions in our lives and our emotions as well.
 
 
                                 <br><br><span class="italic-SemiBold">
@@ -87,7 +87,7 @@
                                 <img alt="" src="/images/regulate.jpg" class="w-100 mt-lg-5   my-3">
 
 
-                                There is no indication whatsoever that certain food can treat mental illness, depression for example, but there are researches that link food with our general daily mood. You need to be mindful of what you put in your body. A balanced diet can help to feel better. Here are tips to have a healthy mind:
+                                There  are researches that link food with our general daily mood. You need to be mindful of what you put in your body. A balanced diet can help to feel better. Here are tips to have a healthy mind:
 
                                 <img alt="sugar" src="/images/sugar.jpg" class="w-100 mt-lg-5   my-3">
                                 <br><span class="italic-SemiBold">

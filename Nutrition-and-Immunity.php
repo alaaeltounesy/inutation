@@ -73,7 +73,8 @@
 
                             <h5 class="  mb-5 italic-light-m">
 
-                                Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? Even though there is no real scientific evidence that our life choices directly impact the strength of our immune system, observations have been made that some lifestyles can weaken or strengthen it. A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
+                                Our immune system is our first line of defense against whatever we encounter. So how can help our system fight whatever diseases or infections it might encounter? 
+                                 A balanced diet of a range of vitamins and minerals help, and healthy lifestyle factors such as getting enough sleep, regular exercise, and low stress, and a combination of all has been thought to fight infections and diseases, as you have to create harmony in your body to boost the immunity system.
                                 <br><span class="italic-SemiBold">
                                     <br> How can we use our diet to boost immunity?
                                     <br> </span>
@@ -142,7 +143,7 @@
 
                                 <br>
                                 <img alt="Sunflower" src="/images/Sunflower.jpg" class="w-100 mt-lg-5   my-3">
-                                ,br<span class="italic-SemiBold">
+                               <br><span class="italic-SemiBold">
                                     Sunflower Seeds
 
                                     <br> </span>
@@ -157,7 +158,7 @@
                                     <br> </span>
 
 
-                                Drinking water is what keeps you energetic, as it increased the blood flow. Hydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection, as it keeps a harmonic bodily system.
+                                Drinking water is what keeps you energetic, as it increased the blood flow. Dehydration can cause headaches, anxiety, tiredness, and mood swings. Water also decreases the chances of infection, as it keeps a harmonic bodily system.
                                 <br> <br>
                                 <b>
 

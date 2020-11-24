@@ -99,7 +99,7 @@ Dairy products contain the calcium needed that substitute the loss of calcium in
                              <br><br><span class="italic-SemiBold">
                                 Healthy Fats:<br> </span>
                             <br>
-                            Healthy saturated fats are needed in a balanced diet, and more needed in a diet for pregnancy. They contain the elements that can help in the development of the fetus. They can be found in eggs, avocados, and some dairy products. Avoid pairing fats with carbohydrates. 
+                            Healthy saturated fats are needed in a balanced diet, and more needed in a diet for pregnancy. They contain the elements that can help in the development of the fetus. They can be found in eggs, avocados, and some dairy products.
 
                             <br><br><span class="italic-SemiBold">
                                 Varity of Vitamins:</span>
