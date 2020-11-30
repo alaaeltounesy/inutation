@@ -64,8 +64,7 @@
                         </h1>
                         <h3 class="mb-5 italic-med"> founder and CEO of inutrition4u </h3>
                         <p class="my-lg-5 my-3 italic-light-m " style="font-size:18px;">
-                            Shadia is a one-of-a-kind nutritionist wh
-                            o has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant, which makes her your best chance to take your health to a whole new level and improve the overall lifestyle for you and your family.
+                            Shadia is a one-of-a-kind nutritionist who has a master’s degree in Dietetics and Nutrition, as well as being a certified lactation consultant, which makes her your best chance to take your health to a whole new level and improve the overall lifestyle for you and your family.
 
                             <br>
                             <br>
